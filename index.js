@@ -1,4 +1,5 @@
 import puppeteer from "puppeteer";
+import fs from "fs";
 
 const url = "https://bg3.wiki/wiki/Greatswords";
 
@@ -24,7 +25,15 @@ const main = async () => {
 			return { text };
 		});
 	});
-	console.log(allRows);
+
+	const parsedData = JSON.stringify(allRows);
+
+	fs.writeFile("test.json", parsedData, function (err) {
+		if (err) {
+			return console.log(err);
+		}
+		console.log("The file was saved!");
+	});
 };
 
 main();
