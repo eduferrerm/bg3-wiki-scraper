@@ -28,7 +28,7 @@ const main = async () => {
 
 	const parsedData = JSON.stringify(allRows);
 
-	fs.writeFile("test.json", parsedData, function (err) {
+	fs.writeFile("scraped-content.json", parsedData, function (err) {
 		if (err) {
 			return console.log(err);
 		}
