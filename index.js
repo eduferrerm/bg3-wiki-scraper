@@ -1,6 +1,6 @@
 import puppeteer from "puppeteer";
 
-const url = "https://www.joshwcomeau.com/";
+const url = "https://bg3.wiki/wiki/Greatswords";
 
 // const main = async () => {
 // 	const browser = await puppeteer.launch();
@@ -15,16 +15,16 @@ const main = async () => {
 	const page = await browser.newPage();
 	await page.goto(url);
 
-	const allArticles = await page.evaluate(() => {
-		const articles = document.querySelectorAll("article");
+	const allRows = await page.evaluate(() => {
+		const rowItem = document.querySelectorAll("tr");
 
-		return Array.from(articles).map((item) => {
-			const title = item.querySelector("h3").innerText;
-			const url = item.querySelector("a").href;
-			return { title, url };
+		return Array.from(rowItem).map((item) => {
+			const text = item.innerText;
+			// const url = item.href;
+			return { text };
 		});
 	});
-	console.log(allArticles);
+	console.log(allRows);
 };
 
 main();
