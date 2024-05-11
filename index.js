@@ -7,12 +7,12 @@ const weaponsSchema = async (weaponType) => {
 	const page = await browser.newPage();
 	await page.goto(url);
 
-	const weaponList = await page.evaluate(() => {
+	const weaponList = await page.evaluate((weaponType) => {
 		const header = document.querySelectorAll("th");
 		const rows = document.querySelectorAll("td");
-		let rowCounter = 0;
+		const schema = [];
 
-		let schema = [];
+		let rowCounter = 0;
 		let schemaItem = {};
 
 		const schemaKeys = Array.from(header)
@@ -28,29 +28,28 @@ const weaponsSchema = async (weaponType) => {
 		});
 
 		for (i = 0; i < schemaValues.length; i++) {
+			const type = weaponType;
+
 			if (rowCounter === 7) {
 				rowCounter = 0;
 				schema.push(schemaItem);
 				schemaItem = {};
 			}
+			if (rowCounter === 0) {
+				schemaItem["Type"] = `${type}`;
+			}
 			schemaItem[schemaKeys[rowCounter]] = schemaValues[i];
 			rowCounter++;
 		}
 		return schema;
-	});
+	}, weaponType);
 
 	return weaponList;
 };
 
-const greatswordData = weaponsSchema("Greatswords");
-
-greatswordData.then((res) => {
-	writeJsonFile("greatswords-schema", res);
-});
-
 const writeJsonFile = (fileName, data) => {
-	const parsedData = JSON.stringify(data);
-	console.log({ parsedData });
+	const parsedData = JSON.stringify(data, null, 2);
+	// console.log({ parsedData });
 	fs.writeFile(`${fileName}.json`, parsedData, function (err) {
 		if (err) {
 			return console.log(err);
@@ -58,3 +57,10 @@ const writeJsonFile = (fileName, data) => {
 		console.log("The file was saved!");
 	});
 };
+s;
+const greatswordData = weaponsSchema("Greatswords");
+
+greatswordData.then((res) => {
+	// writeJsonFile("greatswords-schema", res);
+	console.log(res);
+});
