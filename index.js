@@ -1,6 +1,25 @@
 import puppeteer from "puppeteer";
 import fs from "fs";
 
+const weaponTypes = async () => {
+	const url = `https://bg3.wiki/wiki/Weapons`;
+	const browser = await puppeteer.launch();
+	const page = await browser.newPage();
+	await page.goto(url);
+
+	const weaponList = await page.evaluate(() => {
+		const tableData = document.querySelectorAll("table.wikitable tr td li a");
+
+		const weapons = Array.from(tableData).map((item) => {
+			return item.innerText;
+		});
+
+		return weapons;
+	});
+
+	return weaponList.filter((item) => item.length > 0);
+};
+
 const weaponsSchema = async (weaponType) => {
 	const url = `https://bg3.wiki/wiki/${weaponType}`;
 	const browser = await puppeteer.launch();
@@ -29,14 +48,16 @@ const weaponsSchema = async (weaponType) => {
 
 		for (i = 0; i < schemaValues.length; i++) {
 			const type = weaponType;
-			const value = schemaValues[i].replace(/(\r\n|\n|\r)/gm, "");
+			const value = schemaValues[i]
+				.replace(/(\r\n|\n|\r)/gm, " ")
+				.replace(/\s+/g, " ");
 
 			if (rowCounter === 7) {
-				schemaItem["url"] = `https://bg3.wiki/wiki/${schemaItem[
-					"weapon"
-				].replace(/ /g, "_")}`;
-				rowCounter = 0;
+				const slug = schemaItem["weapon"].replace(/ /g, "_");
+				// schemaItem["url"] = `https://bg3.wiki/wiki/${slug}`;
+				schemaItem["found"] = `https://bg3.wiki/wiki/${slug}#Where_to_find`;
 				schema.push(schemaItem);
+				rowCounter = 0;
 				schemaItem = {};
 			}
 			if (rowCounter === 0) {
@@ -63,8 +84,14 @@ const writeJsonFile = (fileName, data) => {
 };
 
 const greatswordData = weaponsSchema("Greatswords");
+const typesOfWeapons = weaponTypes();
 
-greatswordData.then((res) => {
+// greatswordData.then((res) => {
+// 	// writeJsonFile("greatswords-schema", res);
+// 	console.log(res);
+// });
+
+typesOfWeapons.then((res) => {
 	// writeJsonFile("greatswords-schema", res);
 	console.log(res);
 });
