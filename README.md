@@ -4,8 +4,7 @@
 
 weapon schema needs to include:
 
-- weapon type
-- act where its found
 - url to its wiki page
+- act where its found
 
 ###### All data used was collected from the wonderful: https://bg3.wiki/

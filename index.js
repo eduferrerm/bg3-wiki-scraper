@@ -29,16 +29,20 @@ const weaponsSchema = async (weaponType) => {
 
 		for (i = 0; i < schemaValues.length; i++) {
 			const type = weaponType;
+			const value = schemaValues[i].replace(/(\r\n|\n|\r)/gm, "");
 
 			if (rowCounter === 7) {
+				schemaItem["url"] = `https://bg3.wiki/wiki/${schemaItem[
+					"weapon"
+				].replace(/ /g, "_")}`;
 				rowCounter = 0;
 				schema.push(schemaItem);
 				schemaItem = {};
 			}
 			if (rowCounter === 0) {
-				schemaItem["Type"] = `${type}`;
+				schemaItem["type"] = `${type}`;
 			}
-			schemaItem[schemaKeys[rowCounter]] = schemaValues[i];
+			schemaItem[schemaKeys[rowCounter].toLowerCase()] = value;
 			rowCounter++;
 		}
 		return schema;
@@ -57,7 +61,7 @@ const writeJsonFile = (fileName, data) => {
 		console.log("The file was saved!");
 	});
 };
-s;
+
 const greatswordData = weaponsSchema("Greatswords");
 
 greatswordData.then((res) => {
