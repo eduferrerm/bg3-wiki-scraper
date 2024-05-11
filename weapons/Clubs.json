@@ -1,0 +1,178 @@
+[
+  {
+    "type": "Clubs",
+    "weapon": " Cemetery-Blue Torch",
+    "enchant.": "",
+    "damage": "1d4 1d4",
+    "damage type": "Bludgeoning Fire",
+    "weight": "0.9 kg 2 lb",
+    "price": "10",
+    "special": "",
+    "found": "https://bg3.wiki/wiki/_Cemetery-Blue_Torch#Where_to_find"
+  },
+  {
+    "type": "Clubs",
+    "weapon": " Club",
+    "enchant.": "",
+    "damage": "1d4",
+    "damage type": "Bludgeoning",
+    "weight": "0.9 kg 1.8 lb",
+    "price": "10",
+    "special": "",
+    "found": "https://bg3.wiki/wiki/_Club#Where_to_find"
+  },
+  {
+    "type": "Clubs",
+    "weapon": " Cultist Brand",
+    "enchant.": "",
+    "damage": "1d4",
+    "damage type": "Bludgeoning",
+    "weight": "0.9 kg lb",
+    "price": "10",
+    "special": "",
+    "found": "https://bg3.wiki/wiki/_Cultist_Brand#Where_to_find"
+  },
+  {
+    "type": "Clubs",
+    "weapon": " Drunk-Purple Torch",
+    "enchant.": "",
+    "damage": "1d4 1d4",
+    "damage type": "Bludgeoning Fire",
+    "weight": "0.9 kg 2 lb",
+    "price": "10",
+    "special": "",
+    "found": "https://bg3.wiki/wiki/_Drunk-Purple_Torch#Where_to_find"
+  },
+  {
+    "type": "Clubs",
+    "weapon": " Lantern",
+    "enchant.": "",
+    "damage": "1d4 1d4",
+    "damage type": "Bludgeoning Fire",
+    "weight": "0.9 kg 1.8 lb",
+    "price": "10",
+    "special": "",
+    "found": "https://bg3.wiki/wiki/_Lantern#Where_to_find"
+  },
+  {
+    "type": "Clubs",
+    "weapon": " Plague-Green Torch",
+    "enchant.": "",
+    "damage": "1d4 1d4",
+    "damage type": "Bludgeoning Fire",
+    "weight": "0.9 kg 2 lb",
+    "price": "10",
+    "special": "",
+    "found": "https://bg3.wiki/wiki/_Plague-Green_Torch#Where_to_find"
+  },
+  {
+    "type": "Clubs",
+    "weapon": " Torch",
+    "enchant.": "",
+    "damage": "1d4 1d4",
+    "damage type": "Bludgeoning Fire",
+    "weight": "0.9 kg 1.8 lb",
+    "price": "10",
+    "special": "",
+    "found": "https://bg3.wiki/wiki/_Torch#Where_to_find"
+  },
+  {
+    "type": "Clubs",
+    "weapon": " Twisting Branch",
+    "enchant.": "",
+    "damage": "1d4",
+    "damage type": "Bludgeoning",
+    "weight": "0.9 kg 1.8 lb",
+    "price": "10",
+    "special": "",
+    "found": "https://bg3.wiki/wiki/_Twisting_Branch#Where_to_find"
+  },
+  {
+    "type": "Clubs",
+    "weapon": " Whipping Cane",
+    "enchant.": "",
+    "damage": "1d4",
+    "damage type": "Bludgeoning",
+    "weight": "0.9 kg 1.8 lb",
+    "price": "10",
+    "special": "",
+    "found": "https://bg3.wiki/wiki/_Whipping_Cane#Where_to_find"
+  },
+  {
+    "type": "Clubs",
+    "weapon": " Broken Club",
+    "enchant.": "",
+    "damage": "1d4",
+    "damage type": "Bludgeoning",
+    "weight": "0.9 kg lb",
+    "price": "10",
+    "special": "",
+    "found": "https://bg3.wiki/wiki/_Broken_Club#Where_to_find"
+  },
+  {
+    "type": "Clubs",
+    "weapon": " Salami",
+    "enchant.": "",
+    "damage": "1d4",
+    "damage type": "Bludgeoning",
+    "weight": "0.9 kg 1.8 lb",
+    "price": "10",
+    "special": "",
+    "found": "https://bg3.wiki/wiki/_Salami#Where_to_find"
+  },
+  {
+    "type": "Clubs",
+    "weapon": " Club of Hill Giant Strength",
+    "enchant.": "",
+    "damage": "1d4",
+    "damage type": "Bludgeoning",
+    "weight": "0.9 kg 1.9 lb",
+    "price": "65",
+    "special": "Splinters of a Giant's Might Increases Strength to 19.",
+    "found": "https://bg3.wiki/wiki/_Club_of_Hill_Giant_Strength#Where_to_find"
+  },
+  {
+    "type": "Clubs",
+    "weapon": " Ironwood Club",
+    "enchant.": "+1",
+    "damage": "1d4 + 1",
+    "damage type": "Bludgeoning",
+    "weight": "0.9 kg 1.8 lb",
+    "price": "65",
+    "special": "When Shillelagh is cast on this weapon, grants Ironwood Harmony (+1d4 Bludgeoning damage).",
+    "found": "https://bg3.wiki/wiki/_Ironwood_Club#Where_to_find"
+  },
+  {
+    "type": "Clubs",
+    "weapon": " Shadow Lantern",
+    "enchant.": "",
+    "damage": "1d4",
+    "damage type": "Bludgeoning",
+    "weight": "0.9 kg 1.8 lb",
+    "price": "190",
+    "special": "Conjure Shadow Lantern Wraith (): Cast as a level 6 spell ( Recharge: Long rest).",
+    "found": "https://bg3.wiki/wiki/_Shadow_Lantern#Where_to_find"
+  },
+  {
+    "type": "Clubs",
+    "weapon": " Torch of Revocation",
+    "enchant.": "+1",
+    "damage": "1d4 + 1 1d4 1d4",
+    "damage type": "Bludgeoning Necrotic Fire",
+    "weight": "0.9 kg 1.8 lb",
+    "price": "145",
+    "special": "",
+    "found": "https://bg3.wiki/wiki/_Torch_of_Revocation#Where_to_find"
+  },
+  {
+    "type": "Clubs",
+    "weapon": " Moonlantern",
+    "enchant.": "",
+    "damage": "1d4",
+    "damage type": "Bludgeoning",
+    "weight": "0.9 kg 1.8 lb",
+    "price": "30",
+    "special": "",
+    "found": "https://bg3.wiki/wiki/_Moonlantern#Where_to_find"
+  }
+]

@@ -1,0 +1,79 @@
+[
+  {
+    "type": "Mauls",
+    "weapon": " Maul",
+    "enchant.": "",
+    "damage": "2d6",
+    "damage type": "Bludgeoning",
+    "weight": "4.5 kg 9.0 lb",
+    "price": "40",
+    "special": "",
+    "found": "https://bg3.wiki/wiki/_Maul#Where_to_find"
+  },
+  {
+    "type": "Mauls",
+    "weapon": " Rusty Maul",
+    "enchant.": "",
+    "damage": "2d6",
+    "damage type": "Bludgeoning",
+    "weight": "4.5 kg 9 lb",
+    "price": "3",
+    "special": "",
+    "found": "https://bg3.wiki/wiki/_Rusty_Maul#Where_to_find"
+  },
+  {
+    "type": "Mauls",
+    "weapon": " Doom Hammer",
+    "enchant.": "",
+    "damage": "2d6",
+    "damage type": "Bludgeoning",
+    "weight": "4.5 kg 9.0 lb",
+    "price": "65",
+    "special": "Edge of Terror Each strike fills the target with a chilling dread that prevents it from regaining hit points. Undead creatures also get Disadvantage on Attack rolls.",
+    "found": "https://bg3.wiki/wiki/_Doom_Hammer#Where_to_find"
+  },
+  {
+    "type": "Mauls",
+    "weapon": " Hamarhraft",
+    "enchant.": "",
+    "damage": "2d6",
+    "damage type": "Bludgeoning",
+    "weight": "4.5 kg 9.0 lb",
+    "price": "65",
+    "special": " Shockwave When the wearer Jumps, they deal 1d4Thunder damage in a 3 m / 10 ft radius upon landing.",
+    "found": "https://bg3.wiki/wiki/_Hamarhraft#Where_to_find"
+  },
+  {
+    "type": "Mauls",
+    "weapon": " Maul +1",
+    "enchant.": "+1",
+    "damage": "2d6 + 1",
+    "damage type": "Bludgeoning",
+    "weight": "4.5 kg 9.0 lb",
+    "price": "40",
+    "special": "",
+    "found": "https://bg3.wiki/wiki/_Maul_+1#Where_to_find"
+  },
+  {
+    "type": "Mauls",
+    "weapon": " Corpsegrinder",
+    "enchant.": "+2",
+    "damage": "2d6 + 2 1d4",
+    "damage type": "Bludgeoning Thunder",
+    "weight": "4.5 kg 9.0 lb",
+    "price": "190",
+    "special": " Grand Slam () Slam your weapon into the ground, dealing additional Thunder damage equal to your proficiency bonus, thunderously impacting nearby foes and possibly pushing them away.",
+    "found": "https://bg3.wiki/wiki/_Corpsegrinder#Where_to_find"
+  },
+  {
+    "type": "Mauls",
+    "weapon": " Foebreaker",
+    "enchant.": "+2",
+    "damage": "2d6 + 2",
+    "damage type": "Bludgeoning",
+    "weight": "4.5 kg 9.0 lb",
+    "price": "480",
+    "special": "Lethal Weapon This weapon ignores resistance to Bludgeoning damage.",
+    "found": "https://bg3.wiki/wiki/_Foebreaker#Where_to_find"
+  }
+]

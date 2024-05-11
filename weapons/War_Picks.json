@@ -1,0 +1,57 @@
+[
+  {
+    "type": "War_Picks",
+    "weapon": " Pickaxe",
+    "enchant.": "",
+    "damage": "1d8",
+    "damage type": "Piercing",
+    "weight": "0.41 kg 0.9 lb",
+    "price": "6",
+    "special": "",
+    "found": "https://bg3.wiki/wiki/_Pickaxe#Where_to_find"
+  },
+  {
+    "type": "War_Picks",
+    "weapon": " War Pick",
+    "enchant.": "",
+    "damage": "1d8",
+    "damage type": "Piercing",
+    "weight": "0.9 kg 1.8 lb",
+    "price": "40",
+    "special": "",
+    "found": "https://bg3.wiki/wiki/_War_Pick#Where_to_find"
+  },
+  {
+    "type": "War_Picks",
+    "weapon": " Deep Delver",
+    "enchant.": "",
+    "damage": "1d8",
+    "damage type": "Piercing",
+    "weight": "0.9 kg 1.8 lb",
+    "price": "100",
+    "special": "Dig Deep Inflicts Shattered on hit.",
+    "found": "https://bg3.wiki/wiki/_Deep_Delver#Where_to_find"
+  },
+  {
+    "type": "War_Picks",
+    "weapon": " Hoppy",
+    "enchant.": "+1",
+    "damage": "1d8 + 1",
+    "damage type": "Piercing",
+    "weight": "0.9 kg 1.8 lb",
+    "price": "100",
+    "special": " Revitalising Strike () Smash into a foe, wounding them and healing your own injuries.",
+    "found": "https://bg3.wiki/wiki/_Hoppy#Where_to_find"
+  },
+  {
+    "type": "War_Picks",
+    "weapon": " War Pick +1",
+    "enchant.": "+1",
+    "damage": "1d8 + 1",
+    "damage type": "Piercing",
+    "weight": "0.9 kg 1.8 lb",
+    "price": "40",
+    "special": "",
+    "found": "https://bg3.wiki/wiki/_War_Pick_+1#Where_to_find"
+  }
+]

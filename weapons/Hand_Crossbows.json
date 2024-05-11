@@ -1,0 +1,79 @@
+[
+  {
+    "type": "Hand_Crossbows",
+    "weapon": " Hand Crossbow",
+    "enchant.": "",
+    "damage": "2d10",
+    "damage type": "Piercing",
+    "weight": "0.9 kg 1.8 lb",
+    "price": "50",
+    "special": " Not usable by humanoids.",
+    "found": "https://bg3.wiki/wiki/_Hand_Crossbow#Where_to_find"
+  },
+  {
+    "type": "Hand_Crossbows",
+    "weapon": " Hand Crossbow",
+    "enchant.": "",
+    "damage": "1d6",
+    "damage type": "Piercing",
+    "weight": "0.9 kg 1.8 lb",
+    "price": "50",
+    "special": "",
+    "found": "https://bg3.wiki/wiki/_Hand_Crossbow#Where_to_find"
+  },
+  {
+    "type": "Hand_Crossbows",
+    "weapon": " Firestoker",
+    "enchant.": "",
+    "damage": "1d6",
+    "damage type": "Piercing",
+    "weight": "0.9 kg 2 lb",
+    "price": "100",
+    "special": "Burned Alive Deals an additional 1d4Slashing damage to Burning targets.",
+    "found": "https://bg3.wiki/wiki/_Firestoker#Where_to_find"
+  },
+  {
+    "type": "Hand_Crossbows",
+    "weapon": " Hand Crossbow +1",
+    "enchant.": "+1",
+    "damage": "1d6 + 1",
+    "damage type": "Piercing",
+    "weight": "0.9 kg 1.8 lb",
+    "price": "65",
+    "special": "",
+    "found": "https://bg3.wiki/wiki/_Hand_Crossbow_+1#Where_to_find"
+  },
+  {
+    "type": "Hand_Crossbows",
+    "weapon": " Hand Crossbow +2",
+    "enchant.": "+2",
+    "damage": "1d6 + 2",
+    "damage type": "Piercing",
+    "weight": "0.9 kg 2.0 lb",
+    "price": "155",
+    "special": "",
+    "found": "https://bg3.wiki/wiki/_Hand_Crossbow_+2#Where_to_find"
+  },
+  {
+    "type": "Hand_Crossbows",
+    "weapon": " Ne'er Misser",
+    "enchant.": "+1",
+    "damage": "1d6 + 1",
+    "damage type": "Force",
+    "weight": "0.9 kg 2 lb",
+    "price": "310",
+    "special": "Magic Missile (): Cast as a level 3 spell ( Recharge: Short rest).",
+    "found": "https://bg3.wiki/wiki/_Ne'er_Misser#Where_to_find"
+  },
+  {
+    "type": "Hand_Crossbows",
+    "weapon": " Hellfire Hand Crossbow",
+    "enchant.": "+2",
+    "damage": "1d6 + 2",
+    "damage type": "Piercing",
+    "weight": "0.9 kg 2 lb",
+    "price": "770",
+    "special": "Hellstalker Possibly inflict Burning when attacking while Hiding or Invisible. Scorching Ray (): Cast as a level 3 spell ( Recharge: Short rest).",
+    "found": "https://bg3.wiki/wiki/_Hellfire_Hand_Crossbow#Where_to_find"
+  }
+]

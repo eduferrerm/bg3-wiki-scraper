@@ -1,0 +1,90 @@
+[
+  {
+    "type": "Tridents",
+    "weapon": " Rusty Trident",
+    "enchant.": "",
+    "damage": "1d6",
+    "damage type": "Piercing",
+    "weight": "1.8 kg 3.6 lb",
+    "price": "4",
+    "special": "",
+    "found": "https://bg3.wiki/wiki/_Rusty_Trident#Where_to_find"
+  },
+  {
+    "type": "Tridents",
+    "weapon": " Trident of the Depths",
+    "enchant.": "+3",
+    "damage": "1d6 + 3 1d6",
+    "damage type": "Piercing Cold",
+    "weight": "1.6 kg 3.6 lb",
+    "price": "40",
+    "special": " Hiemal Strike () Pierce a creature with your frost-rimed trident and Chill it.",
+    "found": "https://bg3.wiki/wiki/_Trident_of_the_Depths#Where_to_find"
+  },
+  {
+    "type": "Tridents",
+    "weapon": " Trident",
+    "enchant.": "",
+    "damage": "1d6",
+    "damage type": "Piercing",
+    "weight": "1.8 kg 3.6 lb",
+    "price": "40",
+    "special": "",
+    "found": "https://bg3.wiki/wiki/_Trident#Where_to_find"
+  },
+  {
+    "type": "Tridents",
+    "weapon": " Trident +1",
+    "enchant.": "+1",
+    "damage": "1d6 + 1",
+    "damage type": "Piercing",
+    "weight": "1.8 kg 3.6 lb",
+    "price": "55",
+    "special": "",
+    "found": "https://bg3.wiki/wiki/_Trident_+1#Where_to_find"
+  },
+  {
+    "type": "Tridents",
+    "weapon": " The Sparky Points",
+    "enchant.": "",
+    "damage": "1d6",
+    "damage type": "Piercing",
+    "weight": "1.8 kg 3.6 lb",
+    "price": "390",
+    "special": "Electric Blood When the wielder deals damage using this weapon, they gain 2 Lightning Charges.",
+    "found": "https://bg3.wiki/wiki/_The_Sparky_Points#Where_to_find"
+  },
+  {
+    "type": "Tridents",
+    "weapon": " Trident +2",
+    "enchant.": "+2",
+    "damage": "1d6 + 2",
+    "damage type": "Piercing",
+    "weight": "1.8 kg 3.6 lb",
+    "price": "125",
+    "special": "",
+    "found": "https://bg3.wiki/wiki/_Trident_+2#Where_to_find"
+  },
+  {
+    "type": "Tridents",
+    "weapon": " Trident of the Waves",
+    "enchant.": "+1",
+    "damage": "1d6 + 1",
+    "damage type": "Piercing",
+    "weight": "1.8 kg 3.9 lb",
+    "price": "630",
+    "special": "The Water Caller On a hit, inflict Wet and create a 2 m / 7 ft Water surface centred around the target.",
+    "found": "https://bg3.wiki/wiki/_Trident_of_the_Waves#Where_to_find"
+  },
+  {
+    "type": "Tridents",
+    "weapon": " Nyrulna",
+    "enchant.": "+3",
+    "damage": "1d6 + 3 1d6",
+    "damage type": "Piercing Thunder",
+    "weight": "1.8 kg 3.6 lb",
+    "price": "840",
+    "special": "Zephyr Connection This weapon will return to your hand when thrown. You cannot be forced to drop the trident. When thrown, the weapon creates an explosion that deals 3d4Thunder damage in a 6 m / 20 ft blast centered on the target. Veil of the Wind You gain a + 3 m / 10 ft bonus to movement speed and jump distance. Equipping this weapon gives you Immunity to falling damage. Nyrulna: Glowing This object shines with a glowing light in a radius of 6 m / 20 ft. Zephyr Flash () Rush forward, creating an air vortex that blasts foes and possibly inflicts Bleeding. Zephyr Break () Zephyr Break imitates the effects of the spell Gust of Wind while dealing thunder damage.",
+    "found": "https://bg3.wiki/wiki/_Nyrulna#Where_to_find"
+  }
+]

@@ -1,0 +1,68 @@
+[
+  {
+    "type": "Sickles",
+    "weapon": " Rusty Sickle",
+    "enchant.": "",
+    "damage": "1d4",
+    "damage type": "Slashing",
+    "weight": "0.9 kg 1.8 lb",
+    "price": "1",
+    "special": "",
+    "found": "https://bg3.wiki/wiki/_Rusty_Sickle#Where_to_find"
+  },
+  {
+    "type": "Sickles",
+    "weapon": " Sickle",
+    "enchant.": "",
+    "damage": "1d4",
+    "damage type": "Slashing",
+    "weight": "0.9 kg 1.8 lb",
+    "price": "10",
+    "special": "",
+    "found": "https://bg3.wiki/wiki/_Sickle#Where_to_find"
+  },
+  {
+    "type": "Sickles",
+    "weapon": " Sickle (Redcap)",
+    "enchant.": "",
+    "damage": "2d4",
+    "damage type": "Slashing",
+    "weight": "0.9 kg 1.8 lb",
+    "price": "10",
+    "special": "",
+    "found": "https://bg3.wiki/wiki/_Sickle_(Redcap)#Where_to_find"
+  },
+  {
+    "type": "Sickles",
+    "weapon": " Sickle of BOOOAL",
+    "enchant.": "",
+    "damage": "2d4",
+    "damage type": "Slashing",
+    "weight": "0.9 kg 1.8 lb",
+    "price": "190",
+    "special": "",
+    "found": "https://bg3.wiki/wiki/_Sickle_of_BOOOAL#Where_to_find"
+  },
+  {
+    "type": "Sickles",
+    "weapon": " Sussur Sickle",
+    "enchant.": "+1",
+    "damage": "1d4 + 1",
+    "damage type": "Slashing",
+    "weight": "0.9 kg 1.8 lb",
+    "price": "120",
+    "special": " Silences targets on hit.",
+    "found": "https://bg3.wiki/wiki/_Sussur_Sickle#Where_to_find"
+  },
+  {
+    "type": "Sickles",
+    "weapon": " Wavemother's Sickle",
+    "enchant.": "+2",
+    "damage": "1d4 + 2 1d4",
+    "damage type": "Slashing Cold",
+    "weight": "0.9 kg 1.9 lb",
+    "price": "190",
+    "special": "Watery Guidance This weapon has Advantage against Wet creatures.",
+    "found": "https://bg3.wiki/wiki/_Wavemother's_Sickle#Where_to_find"
+  }
+]

@@ -1,0 +1,90 @@
+[
+  {
+    "type": "Greatclubs",
+    "weapon": " Gnarled Tree Branch",
+    "enchant.": "",
+    "damage": "2d8",
+    "damage type": "Bludgeoning",
+    "weight": "8.5 kg 17 lb",
+    "price": "16",
+    "special": " Not usable by humanoids.",
+    "found": "https://bg3.wiki/wiki/_Gnarled_Tree_Branch#Where_to_find"
+  },
+  {
+    "type": "Greatclubs",
+    "weapon": " Greatclub",
+    "enchant.": "",
+    "damage": "2d12",
+    "damage type": "Bludgeoning",
+    "weight": "8.5 kg 17 lb",
+    "price": "16",
+    "special": " Not usable by humanoids.",
+    "found": "https://bg3.wiki/wiki/_Greatclub#Where_to_find"
+  },
+  {
+    "type": "Greatclubs",
+    "weapon": " Greatclub",
+    "enchant.": "",
+    "damage": "1d8",
+    "damage type": "Bludgeoning",
+    "weight": "4.5 kg 9.0 lb",
+    "price": "20",
+    "special": "",
+    "found": "https://bg3.wiki/wiki/_Greatclub#Where_to_find"
+  },
+  {
+    "type": "Greatclubs",
+    "weapon": " Heavy Spiked Club",
+    "enchant.": "",
+    "damage": "2d8",
+    "damage type": "Bludgeoning",
+    "weight": "4.5 kg 9.0 lb",
+    "price": "20",
+    "special": " Not usable by humanoids.",
+    "found": "https://bg3.wiki/wiki/_Heavy_Spiked_Club#Where_to_find"
+  },
+  {
+    "type": "Greatclubs",
+    "weapon": " Argument Solver",
+    "enchant.": "+1",
+    "damage": "1d8 + 1",
+    "damage type": "Bludgeoning",
+    "weight": "4.5 kg 9.9 lb",
+    "price": "65",
+    "special": " Poison Mist () On a hit, deal extra Poison damage equal to your proficiency bonus and surround the target in a noxious cloud that possibly Poisons those within it.",
+    "found": "https://bg3.wiki/wiki/_Argument_Solver#Where_to_find"
+  },
+  {
+    "type": "Greatclubs",
+    "weapon": " Greatclub +1",
+    "enchant.": "+1",
+    "damage": "1d8 + 1",
+    "damage type": "Bludgeoning",
+    "weight": "4.5 kg 9 lb",
+    "price": "40",
+    "special": "",
+    "found": "https://bg3.wiki/wiki/_Greatclub_+1#Where_to_find"
+  },
+  {
+    "type": "Greatclubs",
+    "weapon": " Punch-Drunk Bastard",
+    "enchant.": "+1",
+    "damage": "1d8 + 1",
+    "damage type": "Bludgeoning",
+    "weight": "4.5 kg 9.9 lb",
+    "price": "190",
+    "special": "Tippler's Rage While you are Drunk, you have Advantage on Attack rolls. You also create a blast with each attack, dealing 1d4Thunder for 3 m / 10 ft.",
+    "found": "https://bg3.wiki/wiki/_Punch-Drunk_Bastard#Where_to_find"
+  },
+  {
+    "type": "Greatclubs",
+    "weapon": " Rat Bat",
+    "enchant.": "+1",
+    "damage": "1d8 + 1 1d6",
+    "damage type": "Bludgeoning Piercing",
+    "weight": "4.5 kg 9 lb",
+    "price": "190",
+    "special": "Rat Catcher Attack Rolls against beasts have Advantage.",
+    "found": "https://bg3.wiki/wiki/_Rat_Bat#Where_to_find"
+  }
+]

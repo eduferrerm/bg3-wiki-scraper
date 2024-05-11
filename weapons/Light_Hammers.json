@@ -1,0 +1,68 @@
+[
+  {
+    "type": "Light_Hammers",
+    "weapon": " Light Hammer",
+    "enchant.": "",
+    "damage": "1d4",
+    "damage type": "Bludgeoning",
+    "weight": "0.9 kg 1.8 lb",
+    "price": "40",
+    "special": "",
+    "found": "https://bg3.wiki/wiki/_Light_Hammer#Where_to_find"
+  },
+  {
+    "type": "Light_Hammers",
+    "weapon": " Light Hammer",
+    "enchant.": "",
+    "damage": "1d4",
+    "damage type": "Bludgeoning",
+    "weight": "0.9 kg 1.8 lb",
+    "price": "40",
+    "special": "",
+    "found": "https://bg3.wiki/wiki/_Light_Hammer#Where_to_find"
+  },
+  {
+    "type": "Light_Hammers",
+    "weapon": " Light Hammer +1",
+    "enchant.": "+1",
+    "damage": "1d4 + 1",
+    "damage type": "Bludgeoning",
+    "weight": "0.9 kg 1.8 lb",
+    "price": "40",
+    "special": "",
+    "found": "https://bg3.wiki/wiki/_Light_Hammer_+1#Where_to_find"
+  },
+  {
+    "type": "Light_Hammers",
+    "weapon": " Shining Staver-of-Skulls",
+    "enchant.": "+1",
+    "damage": "1d4 + 1 1d4",
+    "damage type": "Bludgeoning Radiant",
+    "weight": "0.9 kg 1.8 lb",
+    "price": "65",
+    "special": " Light - This object has an aura of light with a radius of 7.5 m / 25 ft.",
+    "found": "https://bg3.wiki/wiki/_Shining_Staver-of-Skulls#Where_to_find"
+  },
+  {
+    "type": "Light_Hammers",
+    "weapon": " Skybreaker",
+    "enchant.": "+1",
+    "damage": "1d4 + 1",
+    "damage type": "Bludgeoning",
+    "weight": "0.9 kg 1.8 lb",
+    "price": "65",
+    "special": "Searing Smite (): Cast as a level 1 spell ( Recharge: Long rest).",
+    "found": "https://bg3.wiki/wiki/_Skybreaker#Where_to_find"
+  },
+  {
+    "type": "Light_Hammers",
+    "weapon": " Wulbren's Hammer",
+    "enchant.": "+1",
+    "damage": "1d4 + 1",
+    "damage type": "Bludgeoning",
+    "weight": "0.9 kg 1.8 lb",
+    "price": "65",
+    "special": "2d4Force damage against objects (unlisted)",
+    "found": "https://bg3.wiki/wiki/_Wulbren's_Hammer#Where_to_find"
+  }
+]

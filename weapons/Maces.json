@@ -1,0 +1,167 @@
+[
+  {
+    "type": "Maces",
+    "weapon": " Crude Mace",
+    "enchant.": "",
+    "damage": "1d6",
+    "damage type": "Bludgeoning",
+    "weight": "1.8 kg 3.6 lb",
+    "price": "30",
+    "special": "",
+    "found": "https://bg3.wiki/wiki/_Crude_Mace#Where_to_find"
+  },
+  {
+    "type": "Maces",
+    "weapon": " Deva Mace",
+    "enchant.": "",
+    "damage": "1d6 4d8",
+    "damage type": "Bludgeoning Radiant",
+    "weight": "1.8 kg 3.9 lb",
+    "price": "30",
+    "special": "",
+    "found": "https://bg3.wiki/wiki/_Deva_Mace#Where_to_find"
+  },
+  {
+    "type": "Maces",
+    "weapon": " Mace",
+    "enchant.": "",
+    "damage": "1d6",
+    "damage type": "Bludgeoning",
+    "weight": "1.8 kg 3.6 lb",
+    "price": "30",
+    "special": "",
+    "found": "https://bg3.wiki/wiki/_Mace#Where_to_find"
+  },
+  {
+    "type": "Maces",
+    "weapon": " Rusty Mace",
+    "enchant.": "",
+    "damage": "1d6",
+    "damage type": "Bludgeoning",
+    "weight": "1.8 kg 3.6 lb",
+    "price": "3",
+    "special": "",
+    "found": "https://bg3.wiki/wiki/_Rusty_Mace#Where_to_find"
+  },
+  {
+    "type": "Maces",
+    "weapon": " Ceremonial Mace",
+    "enchant.": "+1",
+    "damage": "1d6 + 1",
+    "damage type": "Bludgeoning",
+    "weight": "1.8 kg 3.6 lb",
+    "price": "40",
+    "special": "",
+    "found": "https://bg3.wiki/wiki/_Ceremonial_Mace#Where_to_find"
+  },
+  {
+    "type": "Maces",
+    "weapon": " Loviatar's Scourge",
+    "enchant.": "",
+    "damage": "1d6 1d6",
+    "damage type": "Bludgeoning Necrotic",
+    "weight": "1.8 kg 3.6 lb",
+    "price": "370",
+    "special": "Willing Whip Grants Resistance to Necrotic, and deals additional 1d6Necrotic damage to everyone nearby including the wielder.",
+    "found": "https://bg3.wiki/wiki/_Loviatar's_Scourge#Where_to_find"
+  },
+  {
+    "type": "Maces",
+    "weapon": " Mace +1",
+    "enchant.": "+1",
+    "damage": "1d6 + 1",
+    "damage type": "Bludgeoning",
+    "weight": "1.8 kg 4 lb",
+    "price": "40",
+    "special": "",
+    "found": "https://bg3.wiki/wiki/_Mace_+1#Where_to_find"
+  },
+  {
+    "type": "Maces",
+    "weapon": " Xyanyde",
+    "enchant.": "+1",
+    "damage": "1d6 + 1",
+    "damage type": "Bludgeoning",
+    "weight": "1.8 kg 3.6 lb",
+    "price": "330",
+    "special": "Xyanyde's Fire Once per Short Rest, you can encase a target in Faerie Fire for 2 turns if you miss an attack against it.",
+    "found": "https://bg3.wiki/wiki/_Xyanyde#Where_to_find"
+  },
+  {
+    "type": "Maces",
+    "weapon": " Adamantine Mace",
+    "enchant.": "+1",
+    "damage": "1d6 + 1",
+    "damage type": "Bludgeoning",
+    "weight": "1.9 kg 3.6 lb",
+    "price": "190",
+    "special": "Diamondsbane If an adamantine weapon hits an object, the hit is always critical. Lethal Weapon This weapon ignores resistance to Bludgeoning damage.",
+    "found": "https://bg3.wiki/wiki/_Adamantine_Mace#Where_to_find"
+  },
+  {
+    "type": "Maces",
+    "weapon": " Infernal Mace",
+    "enchant.": "+2",
+    "damage": "1d6 + 2 3",
+    "damage type": "Bludgeoning Poison",
+    "weight": "1.8 kg 3.9 lb",
+    "price": "190",
+    "special": "Infernal Weapon On a hit, the affected entity deals an additional 3Poison damage and can possibly Poison its target.",
+    "found": "https://bg3.wiki/wiki/_Infernal_Mace#Where_to_find"
+  },
+  {
+    "type": "Maces",
+    "weapon": " Mace +2",
+    "enchant.": "+2",
+    "damage": "1d6 + 2",
+    "damage type": "Bludgeoning",
+    "weight": "1.8 kg 4 lb",
+    "price": "95",
+    "special": "",
+    "found": "https://bg3.wiki/wiki/_Mace_+2#Where_to_find"
+  },
+  {
+    "type": "Maces",
+    "weapon": " Shattered Flail",
+    "enchant.": "+2",
+    "damage": "1d6 + 2",
+    "damage type": "Bludgeoning",
+    "weight": "1.8 kg 3.6 lb",
+    "price": "190",
+    "special": "Yeenoghu's Gift Hitting an enemy with this weapon heals the wielder for 1d6hit points - but they can go Mad if they don't continue hitting an enemy each turn.",
+    "found": "https://bg3.wiki/wiki/_Shattered_Flail#Where_to_find"
+  },
+  {
+    "type": "Maces",
+    "weapon": " Handmaiden's Mace",
+    "enchant.": "+2",
+    "damage": "1d6 + 2 1d6",
+    "damage type": "Bludgeoning Poison",
+    "weight": "1.8 kg 3.6 lb",
+    "price": "480",
+    "special": "Set the wearer's Strength score to 18. The enchantment has no effect if their Strength score is higher without it.",
+    "found": "https://bg3.wiki/wiki/_Handmaiden's_Mace#Where_to_find"
+  },
+  {
+    "type": "Maces",
+    "weapon": " Devotee's Mace",
+    "enchant.": "+3",
+    "damage": "1d6 + 3 1d8",
+    "damage type": "Bludgeoning Radiant",
+    "weight": "1.8 kg 3.9 lb",
+    "price": "640",
+    "special": "Main Hand Only Healing Incense Aura (): Emanating a soothing aura, You and nearby allies regain 1d4hit points at the start of your turn for 10 turns ( Recharge: Long rest).",
+    "found": "https://bg3.wiki/wiki/_Devotee's_Mace#Where_to_find"
+  },
+  {
+    "type": "Maces",
+    "weapon": " The Blood of Lathander",
+    "enchant.": "+3",
+    "damage": "1d6 + 3",
+    "damage type": "Bludgeoning",
+    "weight": "1.8 kg 3.6 lb",
+    "price": "640",
+    "special": "Lathander's Blessing Once per Long Rest, when your hit points are reduced to 0, you regain 2d6hit points. Allies within 9 m / 30 ft also regain 1d6hit points. Lathander's Light Sheds holy light in a 6 m / 20 ft radius. In combat, fiends and undead standing in the light are Blinded if they fail a DC 14 Constitution throw. Sunbeam (): Cast as a level 6 spell ( Recharge: Long rest).",
+    "found": "https://bg3.wiki/wiki/_The_Blood_of_Lathander#Where_to_find"
+  }
+]

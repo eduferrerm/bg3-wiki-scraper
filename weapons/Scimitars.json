@@ -1,0 +1,200 @@
+[
+  {
+    "type": "Scimitars",
+    "weapon": " Djinni Scimitar",
+    "enchant.": "+1",
+    "damage": "1d6 + 1 2d10",
+    "damage type": "Slashing Poison",
+    "weight": "1.35 kg 2.7 lb",
+    "price": "30",
+    "special": "",
+    "found": "https://bg3.wiki/wiki/_Djinni_Scimitar#Where_to_find"
+  },
+  {
+    "type": "Scimitars",
+    "weapon": " Flame Blade",
+    "enchant.": "",
+    "damage": "3d6",
+    "damage type": "Fire",
+    "weight": "0.5 kg 1 lb",
+    "price": "30",
+    "special": "",
+    "found": "https://bg3.wiki/wiki/_Flame_Blade#Where_to_find"
+  },
+  {
+    "type": "Scimitars",
+    "weapon": " Goblin Scimitar",
+    "enchant.": "",
+    "damage": "1d6",
+    "damage type": "Slashing",
+    "weight": "1.35 kg 2.7 lb",
+    "price": "30",
+    "special": "",
+    "found": "https://bg3.wiki/wiki/_Goblin_Scimitar#Where_to_find"
+  },
+  {
+    "type": "Scimitars",
+    "weapon": " Rusty Scimitar",
+    "enchant.": "",
+    "damage": "1d6",
+    "damage type": "Slashing",
+    "weight": "1.35 kg 2.7 lb",
+    "price": "3",
+    "special": "",
+    "found": "https://bg3.wiki/wiki/_Rusty_Scimitar#Where_to_find"
+  },
+  {
+    "type": "Scimitars",
+    "weapon": " Scimitar",
+    "enchant.": "",
+    "damage": "1d8",
+    "damage type": "Slashing",
+    "weight": "1.35 kg 2.7 lb",
+    "price": "30",
+    "special": "",
+    "found": "https://bg3.wiki/wiki/_Scimitar#Where_to_find"
+  },
+  {
+    "type": "Scimitars",
+    "weapon": " Scimitar (Akabi)",
+    "enchant.": "",
+    "damage": "1d6",
+    "damage type": "Slashing",
+    "weight": "1.35 kg 2.7 lb",
+    "price": "30",
+    "special": "",
+    "found": "https://bg3.wiki/wiki/_Scimitar_(Akabi)#Where_to_find"
+  },
+  {
+    "type": "Scimitars",
+    "weapon": " Scimitar of Cinder",
+    "enchant.": "+3",
+    "damage": "1d6 + 3 1d6",
+    "damage type": "Slashing Fire",
+    "weight": "1.2 kg 2.7 lb",
+    "price": "30",
+    "special": " Scorching Strike () Lash out with a blazing strike and possibly Burn your target.",
+    "found": "https://bg3.wiki/wiki/_Scimitar_of_Cinder#Where_to_find"
+  },
+  {
+    "type": "Scimitars",
+    "weapon": " Scimitar",
+    "enchant.": "",
+    "damage": "1d6",
+    "damage type": "Slashing",
+    "weight": "1.35 kg 2.7 lb",
+    "price": "30",
+    "special": "",
+    "found": "https://bg3.wiki/wiki/_Scimitar#Where_to_find"
+  },
+  {
+    "type": "Scimitars",
+    "weapon": " Kurwin's Cauteriser",
+    "enchant.": "+1",
+    "damage": "1d6 + 1 1d4",
+    "damage type": "Slashing Fire",
+    "weight": "1.35 kg 2.97 lb",
+    "price": "65",
+    "special": "Cauteriser Deals an additional 1d4Fire. On a hit, the target starts Burning unless it succeeds a Constitution Saving throw.",
+    "found": "https://bg3.wiki/wiki/_Kurwin's_Cauteriser#Where_to_find"
+  },
+  {
+    "type": "Scimitars",
+    "weapon": " Scimitar +1",
+    "enchant.": "+1",
+    "damage": "1d6 + 1",
+    "damage type": "Slashing",
+    "weight": "1.35 kg 2.7 lb",
+    "price": "40",
+    "special": "",
+    "found": "https://bg3.wiki/wiki/_Scimitar_+1#Where_to_find"
+  },
+  {
+    "type": "Scimitars",
+    "weapon": " Speedy Reply",
+    "enchant.": "",
+    "damage": "1d6",
+    "damage type": "Slashing",
+    "weight": "1.35 kg 2.7 lb",
+    "price": "65",
+    "special": "Nimble Attack When the wielder hits an enemy with this weapon, they gain Momentum for 2 turns.",
+    "found": "https://bg3.wiki/wiki/_Speedy_Reply#Where_to_find"
+  },
+  {
+    "type": "Scimitars",
+    "weapon": " Sylvan Scimitar",
+    "enchant.": "+1",
+    "damage": "1d6 + 1",
+    "damage type": "Slashing",
+    "weight": "1.35 kg 2.7 lb",
+    "price": "65",
+    "special": "Melee Caster Instead of its Dexterity Modifier, the affected entity add its Spellcasting Ability Modifier to Attack rolls.",
+    "found": "https://bg3.wiki/wiki/_Sylvan_Scimitar#Where_to_find"
+  },
+  {
+    "type": "Scimitars",
+    "weapon": " Adamantine Scimitar",
+    "enchant.": "+1",
+    "damage": "1d6 + 1",
+    "damage type": "Slashing",
+    "weight": "1.35 kg 2.7 lb",
+    "price": "190",
+    "special": "Diamondsbane If an adamantine weapon hits an object, the hit is always critical. Lethal Weapon This weapon ignores Resistance to Slashing damage.",
+    "found": "https://bg3.wiki/wiki/_Adamantine_Scimitar#Where_to_find"
+  },
+  {
+    "type": "Scimitars",
+    "weapon": " Salty Scimitar(rrr)",
+    "enchant.": "+2",
+    "damage": "1d6 + 2",
+    "damage type": "Slashing",
+    "weight": "1.35 kg 2.7 lb",
+    "price": "190",
+    "special": "Command (): Cast as a level 1 spell ( Recharge: Long rest).",
+    "found": "https://bg3.wiki/wiki/_Salty_Scimitar(rrr)#Where_to_find"
+  },
+  {
+    "type": "Scimitars",
+    "weapon": " Scimitar +2",
+    "enchant.": "+2",
+    "damage": "1d6 + 2",
+    "damage type": "Slashing",
+    "weight": "1.35 kg 2.7 lb",
+    "price": "95",
+    "special": "",
+    "found": "https://bg3.wiki/wiki/_Scimitar_+2#Where_to_find"
+  },
+  {
+    "type": "Scimitars",
+    "weapon": " Thorn Blade",
+    "enchant.": "+1",
+    "damage": "1d6 + 1",
+    "damage type": "Slashing",
+    "weight": "1.35 kg 2.7 lb",
+    "price": "190",
+    "special": "Poisonous Synergy While concentrating, your melee weapon attacks deal an additional 1d4Poison. Ensnaring Strike (Melee) (): Cast as a level 1 spell ( Recharge: Long rest).",
+    "found": "https://bg3.wiki/wiki/_Thorn_Blade#Where_to_find"
+  },
+  {
+    "type": "Scimitars",
+    "weapon": " Belm",
+    "enchant.": "+2",
+    "damage": "1d6 + 2",
+    "damage type": "Slashing",
+    "weight": "1.35 kg 2.9 lb",
+    "price": "480",
+    "special": " Whirlwind Attack () Strike out at all nearby foes, making separate Attack rolls against each target. Perfectly Balanced Strike () Send Belm snaking out with an adder's speed, the very exemplar of swiftness embodied in steel.",
+    "found": "https://bg3.wiki/wiki/_Belm#Where_to_find"
+  },
+  {
+    "type": "Scimitars",
+    "weapon": " Justiciar's Scimitar",
+    "enchant.": "+2",
+    "damage": "1d6 + 2",
+    "damage type": "Slashing",
+    "weight": "1.35 kg 2.7 lb",
+    "price": "480",
+    "special": "Shadow-Blinding If you attack with Advantage, you have a chance to Blind your target. Shadowsoaked Blow () Strike an enemy, adding your proficiency bonus to the damage. Moreover, if the attack hits, it deals an additional 1d6Psychic damage. This attack doesn't break concealment.",
+    "found": "https://bg3.wiki/wiki/_Justiciar's_Scimitar#Where_to_find"
+  }
+]

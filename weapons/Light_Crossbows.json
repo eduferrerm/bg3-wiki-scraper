@@ -1,0 +1,35 @@
+[
+  {
+    "type": "Light_Crossbows",
+    "weapon": " Light Crossbow",
+    "enchant.": "",
+    "damage": "1d8",
+    "damage type": "Piercing",
+    "weight": "2.25 kg 4.5 lb",
+    "price": "30",
+    "special": "",
+    "found": "https://bg3.wiki/wiki/_Light_Crossbow#Where_to_find"
+  },
+  {
+    "type": "Light_Crossbows",
+    "weapon": " Light Crossbow +1",
+    "enchant.": "+1",
+    "damage": "1d8 + 1",
+    "damage type": "Piercing",
+    "weight": "2.25 kg 4.5 lb",
+    "price": "40",
+    "special": "",
+    "found": "https://bg3.wiki/wiki/_Light_Crossbow_+1#Where_to_find"
+  },
+  {
+    "type": "Light_Crossbows",
+    "weapon": " Sharran Crossbow",
+    "enchant.": "+1",
+    "damage": "1d8 + 1",
+    "damage type": "Piercing",
+    "weight": "2.25 kg 4.5 lb",
+    "price": "65",
+    "special": "",
+    "found": "https://bg3.wiki/wiki/_Sharran_Crossbow#Where_to_find"
+  }
+]

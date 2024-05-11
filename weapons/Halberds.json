@@ -1,0 +1,101 @@
+[
+  {
+    "type": "Halberds",
+    "weapon": " Halberd",
+    "enchant.": "",
+    "damage": "1d10",
+    "damage type": "Slashing",
+    "weight": "2.7 kg 5.4 lb",
+    "price": "60",
+    "special": "",
+    "found": "https://bg3.wiki/wiki/_Halberd#Where_to_find"
+  },
+  {
+    "type": "Halberds",
+    "weapon": " Rusty Halberd",
+    "enchant.": "",
+    "damage": "1d10",
+    "damage type": "Slashing",
+    "weight": "2.7 kg 5.4 lb",
+    "price": "6",
+    "special": "",
+    "found": "https://bg3.wiki/wiki/_Rusty_Halberd#Where_to_find"
+  },
+  {
+    "type": "Halberds",
+    "weapon": " Halberd +1",
+    "enchant.": "+1",
+    "damage": "1d10 + 1",
+    "damage type": "Slashing",
+    "weight": "2.7 kg 5.4 lb",
+    "price": "85",
+    "special": "",
+    "found": "https://bg3.wiki/wiki/_Halberd_+1#Where_to_find"
+  },
+  {
+    "type": "Halberds",
+    "weapon": " Light of Creation",
+    "enchant.": "+1",
+    "damage": "1d10 + 1 1d6",
+    "damage type": "Slashing Lightning",
+    "weight": "2.7 kg 5.4 lb",
+    "price": "130",
+    "special": "Overcharge Chance to Stun the wielder, unless it is a Construct.",
+    "found": "https://bg3.wiki/wiki/_Light_of_Creation#Where_to_find"
+  },
+  {
+    "type": "Halberds",
+    "weapon": " Merregon Halberd",
+    "enchant.": "+1",
+    "damage": "1d10 + 1",
+    "damage type": "Slashing",
+    "weight": "2.7 kg 5.4 lb",
+    "price": "85",
+    "special": "",
+    "found": "https://bg3.wiki/wiki/_Merregon_Halberd#Where_to_find"
+  },
+  {
+    "type": "Halberds",
+    "weapon": " The Skinburster",
+    "enchant.": "+1",
+    "damage": "1d10 + 1",
+    "damage type": "Slashing",
+    "weight": "2.7 kg 5.4 lb",
+    "price": "130",
+    "special": "Skinburster Force When the wielder deals melee damage with this weapon, they gain 2 turns of Force Conduit.",
+    "found": "https://bg3.wiki/wiki/_The_Skinburster#Where_to_find"
+  },
+  {
+    "type": "Halberds",
+    "weapon": " Harmonium Halberd",
+    "enchant.": "+1",
+    "damage": "1d10 + 1",
+    "damage type": "Slashing",
+    "weight": "2.7 kg 5.4 lb",
+    "price": "380",
+    "special": " Strength +2 (up to 23) Intelligence -1 Wisdom -1",
+    "found": "https://bg3.wiki/wiki/_Harmonium_Halberd#Where_to_find"
+  },
+  {
+    "type": "Halberds",
+    "weapon": " Hellbeard Halberd",
+    "enchant.": "+2",
+    "damage": "1d10 + 2 6",
+    "damage type": "Slashing Poison",
+    "weight": "2.7 kg 5.4 lb",
+    "price": "380",
+    "special": "",
+    "found": "https://bg3.wiki/wiki/_Hellbeard_Halberd#Where_to_find"
+  },
+  {
+    "type": "Halberds",
+    "weapon": " Halberd of Vigilance",
+    "enchant.": "+2",
+    "damage": "1d10 + 2 1d4",
+    "damage type": "Slashing Force",
+    "weight": "2.7 kg 5.4 lb",
+    "price": "960",
+    "special": "Sentinel Weapon Gain a +1 bonus to Initiative rolls and Advantage on Perception Ability Checks. Adroit Reflexes When you make an Attack roll as a Reaction, you make it with Advantage.",
+    "found": "https://bg3.wiki/wiki/_Halberd_of_Vigilance#Where_to_find"
+  }
+]

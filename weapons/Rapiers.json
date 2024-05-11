@@ -1,0 +1,101 @@
+[
+  {
+    "type": "Rapiers",
+    "weapon": " Rapier",
+    "enchant.": "",
+    "damage": "1d8",
+    "damage type": "Piercing",
+    "weight": "0.9 kg 1.8 lb",
+    "price": "80",
+    "special": "",
+    "found": "https://bg3.wiki/wiki/_Rapier#Where_to_find"
+  },
+  {
+    "type": "Rapiers",
+    "weapon": " Rapier +1",
+    "enchant.": "+1",
+    "damage": "1d8 + 1",
+    "damage type": "Piercing",
+    "weight": "0.9 kg 1.8 lb",
+    "price": "85",
+    "special": "",
+    "found": "https://bg3.wiki/wiki/_Rapier_+1#Where_to_find"
+  },
+  {
+    "type": "Rapiers",
+    "weapon": " Rupturing Blade",
+    "enchant.": "+1",
+    "damage": "1d8 + 1",
+    "damage type": "Piercing",
+    "weight": "0.9 kg 1.8 lb",
+    "price": "130",
+    "special": " Searing Blood () Cut into an enemy, dealing an extra proficiency bonusFire and 1d6Fire damage to them, while you yourself take 1d6Slashing damage. Additionally, the attack might cause the target to Bleed and Burn.",
+    "found": "https://bg3.wiki/wiki/_Rupturing_Blade#Where_to_find"
+  },
+  {
+    "type": "Rapiers",
+    "weapon": " Sword of Screams",
+    "enchant.": "",
+    "damage": "1d8 1d4",
+    "damage type": "Piercing Psychic",
+    "weight": "0.9 kg 1.8 lb",
+    "price": "130",
+    "special": "",
+    "found": "https://bg3.wiki/wiki/_Sword_of_Screams#Where_to_find"
+  },
+  {
+    "type": "Rapiers",
+    "weapon": " Harmonic Dueller",
+    "enchant.": "+1",
+    "damage": "1d8 + 1",
+    "damage type": "Piercing",
+    "weight": "0.9 kg 1.8 lb",
+    "price": "380",
+    "special": " Mellow Harmony () You make a DC 15 Performance check, success granting all your melee weapon attacks additional damage equal to your Charisma Modifier (minimum 1 additional damage).",
+    "found": "https://bg3.wiki/wiki/_Harmonic_Dueller#Where_to_find"
+  },
+  {
+    "type": "Rapiers",
+    "weapon": " Rapier +2",
+    "enchant.": "+2",
+    "damage": "1d8 + 2",
+    "damage type": "Piercing",
+    "weight": "0.9 kg 1.8 lb",
+    "price": "190",
+    "special": "",
+    "found": "https://bg3.wiki/wiki/_Rapier_+2#Where_to_find"
+  },
+  {
+    "type": "Rapiers",
+    "weapon": " Infernal Rapier",
+    "enchant.": "+2",
+    "damage": "1d8 + 2",
+    "damage type": "Piercing",
+    "weight": "0.9 kg 1.8 lb",
+    "price": "960",
+    "special": "High Spellcasting You gain a +1 bonus to Spell Save DC. Melee Caster Instead of its Dexterity Modifier, the affected entity add its Spellcasting Ability Modifier to Attack rolls. Planar Ally: Cambion (): Cast as a level 6 spell ( Recharge: Long rest).",
+    "found": "https://bg3.wiki/wiki/_Infernal_Rapier#Where_to_find"
+  },
+  {
+    "type": "Rapiers",
+    "weapon": " Pelorsun Blade",
+    "enchant.": "+1",
+    "damage": "1d8 + 1 1d4",
+    "damage type": "Piercing Radiant",
+    "weight": "0.9 kg 1.9 lb",
+    "price": "960",
+    "special": "Undead Bane All Attack rolls have Advantage against Undead.[See Notes]",
+    "found": "https://bg3.wiki/wiki/_Pelorsun_Blade#Where_to_find"
+  },
+  {
+    "type": "Rapiers",
+    "weapon": " Duellist's Prerogative",
+    "enchant.": "+3",
+    "damage": "1d8 + 3 1d4",
+    "damage type": "Piercing Necrotic",
+    "weight": "0.9 kg 1.8 lb",
+    "price": "1300",
+    "special": "Elegant Duellist While your off-hand is empty, you score a Critical Hit when rolling a 19. Moreover, you gain an additional Reaction per turn. Withering Cut On a hit with a melee weapon, use a Reaction to deal additional Necrotic damage equal to your Proficiency Bonus. Challenge to Duel (): Challenge an enemy to attack only you, inflicting Bleeding on the target. at will. Dueller's Enthusiasm () While you are not dual-wielding, you can make an additional melee attack with The Dueller.",
+    "found": "https://bg3.wiki/wiki/_Duellist's_Prerogative#Where_to_find"
+  }
+]

@@ -1,0 +1,112 @@
+[
+  {
+    "type": "Flails",
+    "weapon": " Flail of Myrkul",
+    "enchant.": "",
+    "damage": "1d8",
+    "damage type": "Bludgeoning",
+    "weight": "0.9 kg 1.8 lb",
+    "price": "50",
+    "special": "",
+    "found": "https://bg3.wiki/wiki/_Flail_of_Myrkul#Where_to_find"
+  },
+  {
+    "type": "Flails",
+    "weapon": " Flail of the Vortex",
+    "enchant.": "+3",
+    "damage": "1d8 + 3 1d8",
+    "damage type": "Bludgeoning Lightning",
+    "weight": "0.9 kg 1.8 lb",
+    "price": "50",
+    "special": " Electrified Flail () Clout a foe with your lightning-suffused flail and Stun them.",
+    "found": "https://bg3.wiki/wiki/_Flail_of_the_Vortex#Where_to_find"
+  },
+  {
+    "type": "Flails",
+    "weapon": " Flail",
+    "enchant.": "",
+    "damage": "1d8",
+    "damage type": "Bludgeoning",
+    "weight": "0.9 kg 2 lb",
+    "price": "50",
+    "special": "",
+    "found": "https://bg3.wiki/wiki/_Flail#Where_to_find"
+  },
+  {
+    "type": "Flails",
+    "weapon": " Flail",
+    "enchant.": "",
+    "damage": "1d8",
+    "damage type": "Bludgeoning",
+    "weight": "0.9 kg 2 lb",
+    "price": "50",
+    "special": "",
+    "found": "https://bg3.wiki/wiki/_Flail#Where_to_find"
+  },
+  {
+    "type": "Flails",
+    "weapon": " Flail +1",
+    "enchant.": "+1",
+    "damage": "1d8 + 1",
+    "damage type": "Bludgeoning",
+    "weight": "0.9 kg 2 lb",
+    "price": "65",
+    "special": "",
+    "found": "https://bg3.wiki/wiki/_Flail_+1#Where_to_find"
+  },
+  {
+    "type": "Flails",
+    "weapon": " Myrkulite Scourge",
+    "enchant.": "+1",
+    "damage": "1d8 + 1 1d6",
+    "damage type": "Bludgeoning Necrotic",
+    "weight": "0.9 kg 1.8 lb",
+    "price": "65",
+    "special": "",
+    "found": "https://bg3.wiki/wiki/_Myrkulite_Scourge#Where_to_find"
+  },
+  {
+    "type": "Flails",
+    "weapon": " Corrosive Flail",
+    "enchant.": "+1",
+    "damage": "1d8 + 1",
+    "damage type": "Bludgeoning",
+    "weight": "0.9 kg 1.8 lb",
+    "price": "310",
+    "special": " Corrosive Strike () Deal additional Acid damage equal to your Proficiency Bonus. On a hit, create a pool of acid around the target which reduces Armour Class by 2.",
+    "found": "https://bg3.wiki/wiki/_Corrosive_Flail#Where_to_find"
+  },
+  {
+    "type": "Flails",
+    "weapon": " Defender Flail",
+    "enchant.": "+1",
+    "damage": "1d8 + 1",
+    "damage type": "Bludgeoning",
+    "weight": "0.9 kg 2 lb",
+    "price": "310",
+    "special": "Steel Physiology Reduce incoming Bludgeoning, Piercing, and Slashing damage by 1. Armour Class +1",
+    "found": "https://bg3.wiki/wiki/_Defender_Flail#Where_to_find"
+  },
+  {
+    "type": "Flails",
+    "weapon": " Flail +2",
+    "enchant.": "+2",
+    "damage": "1d8 + 2",
+    "damage type": "Bludgeoning",
+    "weight": "0.9 kg 1.8 lb",
+    "price": "155",
+    "special": "",
+    "found": "https://bg3.wiki/wiki/_Flail_+2#Where_to_find"
+  },
+  {
+    "type": "Flails",
+    "weapon": " Flail of Ages",
+    "enchant.": "+1",
+    "damage": "1d8 + 1",
+    "damage type": "Bludgeoning",
+    "weight": "0.9 kg 1.8 lb",
+    "price": "320",
+    "special": "Elements of an Epoch Depending on what kind of damage this weapon does, it also inflicts: Acid condition, Chilled condition, or Burning condition. Elemental Age (): Cast as a level 3 spell ( Recharge: Long rest).",
+    "found": "https://bg3.wiki/wiki/_Flail_of_Ages#Where_to_find"
+  }
+]

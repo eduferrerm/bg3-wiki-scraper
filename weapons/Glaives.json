@@ -1,0 +1,90 @@
+[
+  {
+    "type": "Glaives",
+    "weapon": " Glaive",
+    "enchant.": "",
+    "damage": "1d10",
+    "damage type": "Slashing",
+    "weight": "2.7 kg 5.4 lb",
+    "price": "65",
+    "special": "",
+    "found": "https://bg3.wiki/wiki/_Glaive#Where_to_find"
+  },
+  {
+    "type": "Glaives",
+    "weapon": " Rusty Glaive",
+    "enchant.": "",
+    "damage": "1d10",
+    "damage type": "Slashing",
+    "weight": "2.7 kg 5.4 lb",
+    "price": "6",
+    "special": "",
+    "found": "https://bg3.wiki/wiki/_Rusty_Glaive#Where_to_find"
+  },
+  {
+    "type": "Glaives",
+    "weapon": " Glaive +1",
+    "enchant.": "+1",
+    "damage": "1d10 + 1",
+    "damage type": "Slashing",
+    "weight": "2.7 kg 5.4 lb",
+    "price": "85",
+    "special": "",
+    "found": "https://bg3.wiki/wiki/_Glaive_+1#Where_to_find"
+  },
+  {
+    "type": "Glaives",
+    "weapon": " Drakethroat Glaive",
+    "enchant.": "+2",
+    "damage": "1d10 + 2",
+    "damage type": "Slashing",
+    "weight": "2.7 kg 5.4 lb",
+    "price": "960",
+    "special": "Vicious Dragon Breath Enemies have Disadvantage on Saving throws against your dragonborn breath weapon. Draconic Elemental Weapon (): Cast as a level 3 spell ( Recharge: Long rest).",
+    "found": "https://bg3.wiki/wiki/_Drakethroat_Glaive#Where_to_find"
+  },
+  {
+    "type": "Glaives",
+    "weapon": " Monster Slayer Glaive",
+    "enchant.": "+1",
+    "damage": "1d10 + 1",
+    "damage type": "Slashing",
+    "weight": "2.7 kg 5.4 lb",
+    "price": "380",
+    "special": "Monsterslayer You gain an additional 1d4 to all attack rolls against Monstrosity type foes and your weapons deal an additional 1d4 damage against them.[See Notes] Refined Vaulting Jump distance is increased by 1.5 m / 5 ft.",
+    "found": "https://bg3.wiki/wiki/_Monster_Slayer_Glaive#Where_to_find"
+  },
+  {
+    "type": "Glaives",
+    "weapon": " Moonlight Glaive",
+    "enchant.": "+2",
+    "damage": "1d10 + 2 1d4",
+    "damage type": "Slashing Radiant",
+    "weight": "2.7 kg 5.4 lb",
+    "price": "380",
+    "special": " Moonlight Glaive: Glowing This object shines with a glowing light in a radius of 6 m / 20 ft. Moonlight Butterflies () Strike a foe, conjuring an illusory swarm of moon-pale butterflies and gaining Advantage on attacks against the target.",
+    "found": "https://bg3.wiki/wiki/_Moonlight_Glaive#Where_to_find"
+  },
+  {
+    "type": "Glaives",
+    "weapon": " Sorrow",
+    "enchant.": "+1",
+    "damage": "1d10 + 1",
+    "damage type": "Slashing",
+    "weight": "2.7 kg 5.4 lb",
+    "price": "380",
+    "special": "Sorrowful Lash (): Cast as a cantrip ( Recharge: Per turn).",
+    "found": "https://bg3.wiki/wiki/_Sorrow#Where_to_find"
+  },
+  {
+    "type": "Glaives",
+    "weapon": " The Dancing Breeze",
+    "enchant.": "+2",
+    "damage": "1d10 + 2",
+    "damage type": "Slashing",
+    "weight": "2.7 kg 5.4 lb",
+    "price": "960",
+    "special": " Whirlwind Attack () Strike out at all nearby foes, making separate Attack rolls against each target.",
+    "found": "https://bg3.wiki/wiki/_The_Dancing_Breeze#Where_to_find"
+  }
+]

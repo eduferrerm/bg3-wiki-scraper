@@ -1,0 +1,178 @@
+[
+  {
+    "type": "Spears",
+    "weapon": " False Spear of the Night",
+    "enchant.": "",
+    "damage": "1d6",
+    "damage type": "Piercing",
+    "weight": "1.35 kg 2.7 lb",
+    "price": "2",
+    "special": "",
+    "found": "https://bg3.wiki/wiki/_False_Spear_of_the_Night#Where_to_find"
+  },
+  {
+    "type": "Spears",
+    "weapon": " Makeshift Spear",
+    "enchant.": "",
+    "damage": "1d6",
+    "damage type": "Piercing",
+    "weight": "1.35 kg 2.7 lb",
+    "price": "16",
+    "special": "",
+    "found": "https://bg3.wiki/wiki/_Makeshift_Spear#Where_to_find"
+  },
+  {
+    "type": "Spears",
+    "weapon": " Pitchfork",
+    "enchant.": "",
+    "damage": "1d6",
+    "damage type": "Piercing",
+    "weight": "1.35 kg 2.7 lb",
+    "price": "16",
+    "special": "",
+    "found": "https://bg3.wiki/wiki/_Pitchfork#Where_to_find"
+  },
+  {
+    "type": "Spears",
+    "weapon": " Rusty Spear",
+    "enchant.": "",
+    "damage": "1d6",
+    "damage type": "Piercing",
+    "weight": "1.35 kg 2.7 lb",
+    "price": "2",
+    "special": "",
+    "found": "https://bg3.wiki/wiki/_Rusty_Spear#Where_to_find"
+  },
+  {
+    "type": "Spears",
+    "weapon": " Sahuagin Spear",
+    "enchant.": "",
+    "damage": "1d6",
+    "damage type": "Piercing",
+    "weight": "1.35 kg 2.7 lb",
+    "price": "16",
+    "special": "",
+    "found": "https://bg3.wiki/wiki/_Sahuagin_Spear#Where_to_find"
+  },
+  {
+    "type": "Spears",
+    "weapon": " Spear",
+    "enchant.": "",
+    "damage": "1d6",
+    "damage type": "Piercing",
+    "weight": "1.35 kg 2.7 lb",
+    "price": "10",
+    "special": "",
+    "found": "https://bg3.wiki/wiki/_Spear#Where_to_find"
+  },
+  {
+    "type": "Spears",
+    "weapon": " Jagged Spear",
+    "enchant.": "",
+    "damage": "1d6",
+    "damage type": "Piercing",
+    "weight": "1.35 kg 2.7 lb",
+    "price": "330",
+    "special": "Torturous Edges Tortured creatures may receive Disadvantage on Constitution Saving throws.",
+    "found": "https://bg3.wiki/wiki/_Jagged_Spear#Where_to_find"
+  },
+  {
+    "type": "Spears",
+    "weapon": " Lightning Jabber",
+    "enchant.": "+1",
+    "damage": "1d6 + 1",
+    "damage type": "Piercing",
+    "weight": "1.35 kg 2.97 lb",
+    "price": "65",
+    "special": "Shocking Sting On a hit, possibly Shock your target. Throwing: Lightning Damage When launched at a target, deal an additional 1d4Lightning damage.",
+    "found": "https://bg3.wiki/wiki/_Lightning_Jabber#Where_to_find"
+  },
+  {
+    "type": "Spears",
+    "weapon": " Spear +1",
+    "enchant.": "+1",
+    "damage": "1d6 + 1",
+    "damage type": "Piercing",
+    "weight": "1.35 kg 2.7 lb",
+    "price": "40",
+    "special": "",
+    "found": "https://bg3.wiki/wiki/_Spear_+1#Where_to_find"
+  },
+  {
+    "type": "Spears",
+    "weapon": " The Watcher's Guide",
+    "enchant.": "",
+    "damage": "1d6",
+    "damage type": "Piercing",
+    "weight": "1.35 kg 2.7 lb",
+    "price": "200",
+    "special": "Death's Promise When the spear misses its target, the wielder's next Attack roll against that target gains True Strike.",
+    "found": "https://bg3.wiki/wiki/_The_Watcher's_Guide#Where_to_find"
+  },
+  {
+    "type": "Spears",
+    "weapon": " Vision of the Absolute",
+    "enchant.": "",
+    "damage": "1d6",
+    "damage type": "Piercing",
+    "weight": "1.35 kg 2.7 lb",
+    "price": "330",
+    "special": "Absolute Night Blind targets that fail a Dexterity saving throw. Deals an additional 2d6Piercing to certain creatures that sport multiple sets of eyes.",
+    "found": "https://bg3.wiki/wiki/_Vision_of_the_Absolute#Where_to_find"
+  },
+  {
+    "type": "Spears",
+    "weapon": " Infernal Spear",
+    "enchant.": "+1",
+    "damage": "1d6 + 1 3",
+    "damage type": "Piercing Poison",
+    "weight": "1.35 kg 2.7 lb",
+    "price": "190",
+    "special": "Infernal Weapon On a hit, the affected entity deals an additional 3Poison damage and can possibly Poison its target.",
+    "found": "https://bg3.wiki/wiki/_Infernal_Spear#Where_to_find"
+  },
+  {
+    "type": "Spears",
+    "weapon": " Spear +2",
+    "enchant.": "+2",
+    "damage": "1d6 + 2",
+    "damage type": "Piercing",
+    "weight": "1.35 kg 2.7 lb",
+    "price": "95",
+    "special": "",
+    "found": "https://bg3.wiki/wiki/_Spear_+2#Where_to_find"
+  },
+  {
+    "type": "Spears",
+    "weapon": " Spear of Night",
+    "enchant.": "+1",
+    "damage": "1d6 + 1",
+    "damage type": "Piercing",
+    "weight": "1.35 kg 2.7 lb",
+    "price": "190",
+    "special": "Shar's Blessing If Shar allows it, use this spear to kill Nightsong.",
+    "found": "https://bg3.wiki/wiki/_Spear_of_Night#Where_to_find"
+  },
+  {
+    "type": "Spears",
+    "weapon": " Selûne's Spear of Night",
+    "enchant.": "+3",
+    "damage": "1d6 + 3",
+    "damage type": "Piercing",
+    "weight": "1.35 kg 2.7 lb",
+    "price": "640",
+    "special": "Selûne's Blessing You gain Advantage on Wisdom Saving throws and Perception Checks. Darkvision Can see in the dark up to 12 m / 40 ft. Moonbeam (): Cast as a level 3 spell ( Recharge: Long rest). Moonmote (): Cast as a cantrip ( Recharge: Long rest).",
+    "found": "https://bg3.wiki/wiki/_Selûne's_Spear_of_Night#Where_to_find"
+  },
+  {
+    "type": "Spears",
+    "weapon": " Shar's Spear of Evening",
+    "enchant.": "+3",
+    "damage": "1d6 + 3",
+    "damage type": "Piercing",
+    "weight": "2.7 kg 5.4 lb",
+    "price": "640",
+    "special": "Shar's Blessing You gain Advantage on Saving throws while Lightly or Heavily Obscured. This weapon deals an additional 1d6 damage to creatures that are Lightly or Heavily Obscured. Blind Immunity The wearer cannot be Blinded. Shar's Darkness (): Cast as a level 2 spell ( Recharge: Per turn). Edge of Darkness () Create a cloud of Darkness while you attack. [See Notes]",
+    "found": "https://bg3.wiki/wiki/_Shar's_Spear_of_Evening#Where_to_find"
+  }
+]

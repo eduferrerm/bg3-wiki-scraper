@@ -1,0 +1,200 @@
+[
+  {
+    "type": "Greatswords",
+    "weapon": " Greatsword",
+    "enchant.": "",
+    "damage": "2d6",
+    "damage type": "Slashing",
+    "weight": "2.7 kg 5.4 lb",
+    "price": "65",
+    "special": "",
+    "found": "https://bg3.wiki/wiki/_Greatsword#Where_to_find"
+  },
+  {
+    "type": "Greatswords",
+    "weapon": " Greatsword",
+    "enchant.": "",
+    "damage": "2d6",
+    "damage type": "Slashing",
+    "weight": "2.7 kg 5.4 lb",
+    "price": "65",
+    "special": "",
+    "found": "https://bg3.wiki/wiki/_Greatsword#Where_to_find"
+  },
+  {
+    "type": "Greatswords",
+    "weapon": " Greatsword +1",
+    "enchant.": "",
+    "damage": "2d6",
+    "damage type": "Slashing",
+    "weight": "2.7 kg 5.4 lb",
+    "price": "65",
+    "special": "",
+    "found": "https://bg3.wiki/wiki/_Greatsword_+1#Where_to_find"
+  },
+  {
+    "type": "Greatswords",
+    "weapon": " Reinforced Greatsword",
+    "enchant.": "",
+    "damage": "2d6",
+    "damage type": "Slashing",
+    "weight": "2.7 kg 5.4 lb",
+    "price": "65",
+    "special": "",
+    "found": "https://bg3.wiki/wiki/_Reinforced_Greatsword#Where_to_find"
+  },
+  {
+    "type": "Greatswords",
+    "weapon": " Rusty Greatsword",
+    "enchant.": "",
+    "damage": "2d6",
+    "damage type": "Slashing",
+    "weight": "2.7 kg 5.4 lb",
+    "price": "6",
+    "special": "",
+    "found": "https://bg3.wiki/wiki/_Rusty_Greatsword#Where_to_find"
+  },
+  {
+    "type": "Greatswords",
+    "weapon": " Watcher Greatsword",
+    "enchant.": "",
+    "damage": "3d12",
+    "damage type": "Slashing",
+    "weight": "100 kg 200 lb",
+    "price": "65",
+    "special": " Not usable by humanoids.",
+    "found": "https://bg3.wiki/wiki/_Watcher_Greatsword#Where_to_find"
+  },
+  {
+    "type": "Greatswords",
+    "weapon": " Everburn Blade",
+    "enchant.": "",
+    "damage": "2d6 1d4",
+    "damage type": "Slashing Fire",
+    "weight": "2.7 kg 5.4 lb",
+    "price": "130",
+    "special": "",
+    "found": "https://bg3.wiki/wiki/_Everburn_Blade#Where_to_find"
+  },
+  {
+    "type": "Greatswords",
+    "weapon": " Githyanki Greatsword",
+    "enchant.": "+1",
+    "damage": "2d6 + 1",
+    "damage type": "Slashing",
+    "weight": "2.7 kg 5.4 lb",
+    "price": "85",
+    "special": "",
+    "found": "https://bg3.wiki/wiki/_Githyanki_Greatsword#Where_to_find"
+  },
+  {
+    "type": "Greatswords",
+    "weapon": " Githyanki Greatsword (Psionic)",
+    "enchant.": "+1",
+    "damage": "2d6 + 1",
+    "damage type": "Slashing",
+    "weight": "2.7 kg 5.4 lb",
+    "price": "130",
+    "special": "Githborn Psionic Weapon When wielded by a githyanki this weapon deals an additional 1d4Psychic damage.",
+    "found": "https://bg3.wiki/wiki/_Githyanki_Greatsword_(Psionic)#Where_to_find"
+  },
+  {
+    "type": "Greatswords",
+    "weapon": " Greatsword +1",
+    "enchant.": "+1",
+    "damage": "2d6 + 1",
+    "damage type": "Slashing",
+    "weight": "2.7 kg 5.4 lb",
+    "price": "85",
+    "special": "",
+    "found": "https://bg3.wiki/wiki/_Greatsword_+1#Where_to_find"
+  },
+  {
+    "type": "Greatswords",
+    "weapon": " Svartlebee's Woundseeker",
+    "enchant.": "+1",
+    "damage": "2d6 + 1",
+    "damage type": "Slashing",
+    "weight": "2.7 kg 5.4 lb",
+    "price": "130",
+    "special": "Deepen the Wound The wielder gains a +1d4 bonus to Attack rolls with this weapon when attacking creatures that have already taken damage.",
+    "found": "https://bg3.wiki/wiki/_Svartlebee's_Woundseeker#Where_to_find"
+  },
+  {
+    "type": "Greatswords",
+    "weapon": " Sword of Justice",
+    "enchant.": "+1",
+    "damage": "2d6 + 1",
+    "damage type": "Slashing",
+    "weight": "2.7 kg 5.4 lb",
+    "price": "130",
+    "special": "Tyr's Protection (): Cast as a level 1 spell ( Recharge: Short rest).",
+    "found": "https://bg3.wiki/wiki/_Sword_of_Justice#Where_to_find"
+  },
+  {
+    "type": "Greatswords",
+    "weapon": " Jorgoral's Greatsword",
+    "enchant.": "+1",
+    "damage": "2d6 + 1",
+    "damage type": "Slashing",
+    "weight": "2.7 kg 5.4 lb",
+    "price": "380",
+    "special": " Colossal Onslaught () Channel your mettlesome strength and strike all creatures in a line, dealing bonus Slashing damage equal to your proficiency bonus.",
+    "found": "https://bg3.wiki/wiki/_Jorgoral's_Greatsword#Where_to_find"
+  },
+  {
+    "type": "Greatswords",
+    "weapon": " Soulbreaker Greatsword",
+    "enchant.": "+1",
+    "damage": "2d6 + 1",
+    "damage type": "Slashing",
+    "weight": "2.7 kg 5.4 lb",
+    "price": "380",
+    "special": "Githborn Psionic Weapon When wielded by a githyanki this weapon deals an additional 1d4Psychic damage. Seldom Caught Unawares You gain a +2 bonus to Initiative rolls. Soulbreaker () Rend the enemy's body and soul, dealing additional Psychic damage equal to your proficiency bonus, and possibly Stun them.",
+    "found": "https://bg3.wiki/wiki/_Soulbreaker_Greatsword#Where_to_find"
+  },
+  {
+    "type": "Greatswords",
+    "weapon": " Sussur Greatsword",
+    "enchant.": "+1",
+    "damage": "2d6 + 1",
+    "damage type": "Slashing",
+    "weight": "2.7 kg 5.4 lb",
+    "price": "150",
+    "special": " Silences targets on hit.",
+    "found": "https://bg3.wiki/wiki/_Sussur_Greatsword#Where_to_find"
+  },
+  {
+    "type": "Greatswords",
+    "weapon": " Sword of Chaos",
+    "enchant.": "+2",
+    "damage": "2d6 + 2 1d4",
+    "damage type": "Slashing Necrotic",
+    "weight": "2.7 kg 5.4 lb",
+    "price": "960",
+    "special": "Chaos On a hit, regain 1d6hit points.",
+    "found": "https://bg3.wiki/wiki/_Sword_of_Chaos#Where_to_find"
+  },
+  {
+    "type": "Greatswords",
+    "weapon": " Balduran's Giantslayer",
+    "enchant.": "+3",
+    "damage": "2d6 + 3",
+    "damage type": "Slashing",
+    "weight": "2.7 kg 5.4 lb",
+    "price": "1300",
+    "special": "Giantslayer On a hit, double the damage from your Strength modifier. This weapon grants you Advantage on Attack rolls against Large, Huge or Gargantuan creatures. Giant Form (): Grow to a fearsome size. Your weapons deal an additional 1d6 damage and you gain 27 temporary hit points and Advantage on Strength Checks and Saving throws. ( Recharge: Short rest). Topple the Big Folk () Deal additional damage equal to your proficiency bonus. On a hit, Large, Huge, or Gargantuan creatures take an additional 2d6SlashingDRS damage and must succeed a Strength saving throw or fall Prone.",
+    "found": "https://bg3.wiki/wiki/_Balduran's_Giantslayer#Where_to_find"
+  },
+  {
+    "type": "Greatswords",
+    "weapon": " Silver Sword of the Astral Plane",
+    "enchant.": "+3",
+    "damage": "2d6 + 3",
+    "damage type": "Slashing",
+    "weight": "2.7 kg 5.4 lb",
+    "price": "1300",
+    "special": "Githborn Psionic Weapon When wielded by a githyanki this weapon deals an additional 1d6Psychic damage. Githborn Psionic Resistance A githyanki holding this weapon has Advantage on Intelligence, Wisdom, and Charisma saving throws, resistance to Psychic damage, and cannot be Charmed. Soulbreaker () Rend the enemy's body and soul, dealing additional Psychic damage equal to your proficiency bonus, and possibly Stun them.",
+    "found": "https://bg3.wiki/wiki/_Silver_Sword_of_the_Astral_Plane#Where_to_find"
+  }
+]

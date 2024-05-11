@@ -1,0 +1,90 @@
+[
+  {
+    "type": "Pikes",
+    "weapon": " Broken Pike",
+    "enchant.": "",
+    "damage": "1d10",
+    "damage type": "Piercing",
+    "weight": "8.1 kg 16.2 lb",
+    "price": "10",
+    "special": "",
+    "found": "https://bg3.wiki/wiki/_Broken_Pike#Where_to_find"
+  },
+  {
+    "type": "Pikes",
+    "weapon": " Rusty Pike",
+    "enchant.": "",
+    "damage": "1d10",
+    "damage type": "Piercing",
+    "weight": "8.1 kg 16.2 lb",
+    "price": "1",
+    "special": "",
+    "found": "https://bg3.wiki/wiki/_Rusty_Pike#Where_to_find"
+  },
+  {
+    "type": "Pikes",
+    "weapon": " Pike",
+    "enchant.": "",
+    "damage": "1d10",
+    "damage type": "Piercing",
+    "weight": "8.1 kg 16.2 lb",
+    "price": "20",
+    "special": "",
+    "found": "https://bg3.wiki/wiki/_Pike#Where_to_find"
+  },
+  {
+    "type": "Pikes",
+    "weapon": " Magical Pike",
+    "enchant.": "+1",
+    "damage": "1d10 + 1",
+    "damage type": "Piercing",
+    "weight": "8.1 kg 16.2 lb",
+    "price": "40",
+    "special": "",
+    "found": "https://bg3.wiki/wiki/_Magical_Pike#Where_to_find"
+  },
+  {
+    "type": "Pikes",
+    "weapon": " Pike +1",
+    "enchant.": "+1",
+    "damage": "1d10 + 1",
+    "damage type": "Piercing",
+    "weight": "8.1 kg 16.2 lb",
+    "price": "40",
+    "special": "",
+    "found": "https://bg3.wiki/wiki/_Pike_+1#Where_to_find"
+  },
+  {
+    "type": "Pikes",
+    "weapon": " Returning Pike",
+    "enchant.": "+1",
+    "damage": "1d10 + 1",
+    "damage type": "Piercing",
+    "weight": "8.1 kg 16.2 lb",
+    "price": "65",
+    "special": "Homing Weapon This weapon will return to its owner when thrown.",
+    "found": "https://bg3.wiki/wiki/_Returning_Pike#Where_to_find"
+  },
+  {
+    "type": "Pikes",
+    "weapon": " Breaching Pikestaff",
+    "enchant.": "+2",
+    "damage": "1d10 + 2 1d4",
+    "damage type": "Piercing Force",
+    "weight": "8.1 kg 17.85 lb",
+    "price": "190",
+    "special": "",
+    "found": "https://bg3.wiki/wiki/_Breaching_Pikestaff#Where_to_find"
+  },
+  {
+    "type": "Pikes",
+    "weapon": " Unseen Menace",
+    "enchant.": "+1",
+    "damage": "1d10 + 1",
+    "damage type": "Piercing",
+    "weight": "8.1 kg 16.2 lb",
+    "price": "190",
+    "special": "Invisible Weapon This weapon is Invisible while equipped. It has Advantage on Attack rolls. It loses this property for 2 rounds on a missed Attack roll. The weapon also scores a critical hit when rolling a 19.",
+    "found": "https://bg3.wiki/wiki/_Unseen_Menace#Where_to_find"
+  }
+]

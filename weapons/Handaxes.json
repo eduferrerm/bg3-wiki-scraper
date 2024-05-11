@@ -1,0 +1,90 @@
+[
+  {
+    "type": "Handaxes",
+    "weapon": " Cleaver",
+    "enchant.": "",
+    "damage": "1d6",
+    "damage type": "Slashing",
+    "weight": "0.9 kg 1.8 lb",
+    "price": "16",
+    "special": "",
+    "found": "https://bg3.wiki/wiki/_Cleaver#Where_to_find"
+  },
+  {
+    "type": "Handaxes",
+    "weapon": " Rusty Handaxe",
+    "enchant.": "",
+    "damage": "1d6",
+    "damage type": "Slashing",
+    "weight": "0.9 kg 1.8 lb",
+    "price": "2",
+    "special": "",
+    "found": "https://bg3.wiki/wiki/_Rusty_Handaxe#Where_to_find"
+  },
+  {
+    "type": "Handaxes",
+    "weapon": " Dad's Axe",
+    "enchant.": "",
+    "damage": "1d6",
+    "damage type": "Slashing",
+    "weight": "0.9 kg 1.8 lb",
+    "price": "16",
+    "special": "",
+    "found": "https://bg3.wiki/wiki/_Dad's_Axe#Where_to_find"
+  },
+  {
+    "type": "Handaxes",
+    "weapon": " Handaxe",
+    "enchant.": "",
+    "damage": "1d6",
+    "damage type": "Slashing",
+    "weight": "0.9 kg 1.8 lb",
+    "price": "16",
+    "special": "",
+    "found": "https://bg3.wiki/wiki/_Handaxe#Where_to_find"
+  },
+  {
+    "type": "Handaxes",
+    "weapon": " Comeback Handaxe",
+    "enchant.": "+1",
+    "damage": "1d6 + 1",
+    "damage type": "Slashing",
+    "weight": "0.9 kg 1.8 lb",
+    "price": "1",
+    "special": "",
+    "found": "https://bg3.wiki/wiki/_Comeback_Handaxe#Where_to_find"
+  },
+  {
+    "type": "Handaxes",
+    "weapon": " Dragon's Grasp",
+    "enchant.": "",
+    "damage": "1d6",
+    "damage type": "Slashing",
+    "weight": "0.9 kg 1.98 lb",
+    "price": "65",
+    "special": "Burned Alive Deals an additional 1d4Slashing damage to Burning targets.",
+    "found": "https://bg3.wiki/wiki/_Dragon's_Grasp#Where_to_find"
+  },
+  {
+    "type": "Handaxes",
+    "weapon": " Handaxe +1",
+    "enchant.": "+1",
+    "damage": "1d6 + 1",
+    "damage type": "Slashing",
+    "weight": "0.9 kg 1.8 lb",
+    "price": "40",
+    "special": "",
+    "found": "https://bg3.wiki/wiki/_Handaxe_+1#Where_to_find"
+  },
+  {
+    "type": "Handaxes",
+    "weapon": " Ritual Axe",
+    "enchant.": "",
+    "damage": "1d6",
+    "damage type": "Slashing",
+    "weight": "0.9 kg 1.8 lb",
+    "price": "280",
+    "special": "The Scourge Mistress' Bane Chance to inflict upon the target a 1d4 penalty to Attack rolls and Saving throws. If the attacker still has 25% or more hit points, they take 1d6Piercing themselves.",
+    "found": "https://bg3.wiki/wiki/_Ritual_Axe#Where_to_find"
+  }
+]

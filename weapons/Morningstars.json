@@ -1,0 +1,68 @@
+[
+  {
+    "type": "Morningstars",
+    "weapon": " Rusty Morningstar",
+    "enchant.": "",
+    "damage": "1d8",
+    "damage type": "Piercing",
+    "weight": "1.8 kg 3.6 lb",
+    "price": "5",
+    "special": "",
+    "found": "https://bg3.wiki/wiki/_Rusty_Morningstar#Where_to_find"
+  },
+  {
+    "type": "Morningstars",
+    "weapon": " Morningstar",
+    "enchant.": "",
+    "damage": "1d8",
+    "damage type": "Piercing",
+    "weight": "1.8 kg 3.6 lb",
+    "price": "50",
+    "special": "",
+    "found": "https://bg3.wiki/wiki/_Morningstar#Where_to_find"
+  },
+  {
+    "type": "Morningstars",
+    "weapon": " Morningstar +1",
+    "enchant.": "+1",
+    "damage": "1d8 + 1",
+    "damage type": "Piercing",
+    "weight": "1.8 kg 3.6 lb",
+    "price": "65",
+    "special": "",
+    "found": "https://bg3.wiki/wiki/_Morningstar_+1#Where_to_find"
+  },
+  {
+    "type": "Morningstars",
+    "weapon": " Ravengard's Scourger",
+    "enchant.": "+2",
+    "damage": "1d8 + 2",
+    "damage type": "Piercing",
+    "weight": "1.8 kg 3.9 lb",
+    "price": "310",
+    "special": " Commander's Strike: Direct an ally to strike a foe. The ally uses a reaction on their next turn to make a weapon attack. Once per Short Rest.",
+    "found": "https://bg3.wiki/wiki/_Ravengard's_Scourger#Where_to_find"
+  },
+  {
+    "type": "Morningstars",
+    "weapon": " Twist of Fortune",
+    "enchant.": "+1",
+    "damage": "1d8 + 1",
+    "damage type": "Piercing",
+    "weight": "1.8 kg 3.6 lb",
+    "price": "310",
+    "special": "Twist of Fortune When you roll 2 or less with this weapon's damage die, reroll it and take the new result. Blood Money () Strike out greedily, dealing an additional proficiency bonusPiercing damage per 300 gold that the target possesses. The gold will be consumed.",
+    "found": "https://bg3.wiki/wiki/_Twist_of_Fortune#Where_to_find"
+  },
+  {
+    "type": "Morningstars",
+    "weapon": " The Sacred Star",
+    "enchant.": "+2",
+    "damage": "1d8 + 2 1d4",
+    "damage type": "Piercing Radiant",
+    "weight": "0.8 kg 1.8 lb",
+    "price": "770",
+    "special": "Radiant Strike On a hit, inflict 1 turn of Radiating Orb upon the target. Sanctified Weapon Undead creatures struck by this weapon are possibly Turned. Dawnburst Strike () Deal additional Radiant damage equal to your proficiency bonus. On a hit, light erupts around you in a 3 m / 10 ft area. Enemies in the light must succeed a Weapon action DC Constitution saving throw or be Blinded.",
+    "found": "https://bg3.wiki/wiki/_The_Sacred_Star#Where_to_find"
+  }
+]

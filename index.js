@@ -86,12 +86,23 @@ const writeJsonFile = (fileName, data) => {
 const greatswordData = weaponsSchema("Greatswords");
 const typesOfWeapons = weaponTypes();
 
+typesOfWeapons.then((res) => {
+	// res.splice(0, 2).map((element) => {
+	res.map((element) => {
+		const slug = element.replace(/ /g, "_");
+		const weapon = weaponsSchema(slug);
+		weapon.then((weaponRes) => {
+			writeJsonFile(`weapons/${slug}`, weaponRes);
+		});
+	});
+});
+
 // greatswordData.then((res) => {
 // 	// writeJsonFile("greatswords-schema", res);
 // 	console.log(res);
 // });
 
-typesOfWeapons.then((res) => {
-	// writeJsonFile("greatswords-schema", res);
-	console.log(res);
-});
+// typesOfWeapons.then((res) => {
+// 	// writeJsonFile("greatswords-schema", res);
+// 	//console.log(res);
+// });

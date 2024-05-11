@@ -1,0 +1,145 @@
+[
+  {
+    "type": "Warhammers",
+    "weapon": " Azer Warhammer",
+    "enchant.": "",
+    "damage": "1d8",
+    "damage type": "Bludgeoning",
+    "weight": "2.7 kg 5.4 lb",
+    "price": "",
+    "special": " Overheat () Release a fraction of your inner fire. All nearby creatures take damage and start Burning Fiercely",
+    "found": "https://bg3.wiki/wiki/_Azer_Warhammer#Where_to_find"
+  },
+  {
+    "type": "Warhammers",
+    "weapon": " Warhammer",
+    "enchant.": "",
+    "damage": "1d8",
+    "damage type": "Bludgeoning",
+    "weight": "2.7 kg 5.4 lb",
+    "price": "50",
+    "special": "",
+    "found": "https://bg3.wiki/wiki/_Warhammer#Where_to_find"
+  },
+  {
+    "type": "Warhammers",
+    "weapon": " Ceremonial Warhammer",
+    "enchant.": "+1",
+    "damage": "1d8 + 1",
+    "damage type": "Bludgeoning",
+    "weight": "2.7 kg 5.4 lb",
+    "price": "65",
+    "special": "",
+    "found": "https://bg3.wiki/wiki/_Ceremonial_Warhammer#Where_to_find"
+  },
+  {
+    "type": "Warhammers",
+    "weapon": " Faithbreaker",
+    "enchant.": "+1",
+    "damage": "1d8 + 1",
+    "damage type": "Bludgeoning",
+    "weight": "2.7 kg 5.4 lb",
+    "price": "300",
+    "special": " Absolute Power () A surge of Divine energy accompanies your swing. It deals an additional 1d6Force damage and possibly pushes your target back 5 m / 17 ft.",
+    "found": "https://bg3.wiki/wiki/_Faithbreaker#Where_to_find"
+  },
+  {
+    "type": "Warhammers",
+    "weapon": " Intransigent Warhammer",
+    "enchant.": "",
+    "damage": "1d8",
+    "damage type": "Bludgeoning",
+    "weight": "2.7 kg 5.4 lb",
+    "price": "100",
+    "special": "Impulse Blast Knocks nearby creatures Prone after killing a target or landing a Critical Hit.",
+    "found": "https://bg3.wiki/wiki/_Intransigent_Warhammer#Where_to_find"
+  },
+  {
+    "type": "Warhammers",
+    "weapon": " Warhammer +1",
+    "enchant.": "+1",
+    "damage": "1d8 + 1",
+    "damage type": "Bludgeoning",
+    "weight": "2.7 kg 5.4 lb",
+    "price": "65",
+    "special": "",
+    "found": "https://bg3.wiki/wiki/_Warhammer_+1#Where_to_find"
+  },
+  {
+    "type": "Warhammers",
+    "weapon": " Charge-Bound Warhammer",
+    "enchant.": "+1",
+    "damage": "1d8 + 1",
+    "damage type": "Bludgeoning",
+    "weight": "2.7 kg 5.9 lb",
+    "price": "310",
+    "special": "Favoured Weapon This weapon has a +1 bonus to damage and Attack rolls. Shocking Bound This weapon deals an additional 1d6Lightning damage. This hammer's magical powers only function if it's Bound to an Eldritch Knight or is a Warlock's Pact Weapon. These effects are in addition to the weapon's +1 enchantment.",
+    "found": "https://bg3.wiki/wiki/_Charge-Bound_Warhammer#Where_to_find"
+  },
+  {
+    "type": "Warhammers",
+    "weapon": " Clown Hammer",
+    "enchant.": "+2",
+    "damage": "1d8 + 2",
+    "damage type": "Bludgeoning",
+    "weight": "2.7 kg 5.4 lb",
+    "price": "310",
+    "special": "Grim Irony Whenever this weapon lands a critical hit, both target and attacker have to succeed a Wisdom Saving Throw, or be affected by fits of laughter.",
+    "found": "https://bg3.wiki/wiki/_Clown_Hammer#Where_to_find"
+  },
+  {
+    "type": "Warhammers",
+    "weapon": " Hammer of the Just",
+    "enchant.": "+2",
+    "damage": "1d8 + 2 1d4",
+    "damage type": "Bludgeoning Radiant",
+    "weight": "2.7 kg 5.9 lb",
+    "price": "310",
+    "special": "Slay the Wicked This weapon deals an additional 1d6Slashing damage against Fiends and Undead. Detect Thoughts (): Cast as a level 1 spell ( Recharge: Long rest).",
+    "found": "https://bg3.wiki/wiki/_Hammer_of_the_Just#Where_to_find"
+  },
+  {
+    "type": "Warhammers",
+    "weapon": " Ketheric's Warhammer",
+    "enchant.": "+1",
+    "damage": "1d8 + 1 1d4",
+    "damage type": "Bludgeoning Psychic",
+    "weight": "2.7 kg 5.4 lb",
+    "price": "310",
+    "special": "",
+    "found": "https://bg3.wiki/wiki/_Ketheric's_Warhammer#Where_to_find"
+  },
+  {
+    "type": "Warhammers",
+    "weapon": " Warhammer +2",
+    "enchant.": "+2",
+    "damage": "1d8 + 2",
+    "damage type": "Bludgeoning",
+    "weight": "2.7 kg 5.4 lb",
+    "price": "155",
+    "special": "",
+    "found": "https://bg3.wiki/wiki/_Warhammer_+2#Where_to_find"
+  },
+  {
+    "type": "Warhammers",
+    "weapon": " Dwarven Thrower",
+    "enchant.": "+2",
+    "damage": "1d8 + 2",
+    "damage type": "Bludgeoning",
+    "weight": "2.7 kg 5.4 lb",
+    "price": "770",
+    "special": "Homing Weapon This weapon will return to its owner when thrown. Dwarven Thrower A Dwarf throwing this warhammer deals an extra 1d8Bludgeoning damage. If the target is Large, Huge or Gargantuan creature, the strike deals an additional 2d8Bludgeoning damage.",
+    "found": "https://bg3.wiki/wiki/_Dwarven_Thrower#Where_to_find"
+  },
+  {
+    "type": "Warhammers",
+    "weapon": " Orphic Hammer",
+    "enchant.": "+3",
+    "damage": "1d8 + 3",
+    "damage type": "Bludgeoning",
+    "weight": "2.7 kg 5.4 lb",
+    "price": "770",
+    "special": "Spell Resistance You have Advantage on Saving throws against spells. Unshackling Strike () Smite the magical bonds keeping a creature Restrained, Paralysed, and Stunned, freeing it.",
+    "found": "https://bg3.wiki/wiki/_Orphic_Hammer#Where_to_find"
+  }
+]

@@ -1,0 +1,79 @@
+[
+  {
+    "type": "Battleaxes",
+    "weapon": " Battleaxe",
+    "enchant.": "",
+    "damage": "1d8",
+    "damage type": "Slashing",
+    "weight": "1.8 kg 3.6 lb",
+    "price": "50",
+    "special": "",
+    "found": "https://bg3.wiki/wiki/_Battleaxe#Where_to_find"
+  },
+  {
+    "type": "Battleaxes",
+    "weapon": " Pactbound Battleaxe",
+    "enchant.": "",
+    "damage": "1d8",
+    "damage type": "Slashing",
+    "weight": "1.8 kg 3.6 lb",
+    "price": "0",
+    "special": "",
+    "found": "https://bg3.wiki/wiki/_Pactbound_Battleaxe#Where_to_find"
+  },
+  {
+    "type": "Battleaxes",
+    "weapon": " Battleaxe +1",
+    "enchant.": "+1",
+    "damage": "1d8 + 1",
+    "damage type": "Slashing",
+    "weight": "1.9 kg 3.8 lb",
+    "price": "65",
+    "special": "",
+    "found": "https://bg3.wiki/wiki/_Battleaxe_+1#Where_to_find"
+  },
+  {
+    "type": "Battleaxes",
+    "weapon": " Ceremonial Battleaxe",
+    "enchant.": "+1",
+    "damage": "1d8 + 1",
+    "damage type": "Slashing",
+    "weight": "1.9 kg 3.8 lb",
+    "price": "65",
+    "special": "",
+    "found": "https://bg3.wiki/wiki/_Ceremonial_Battleaxe#Where_to_find"
+  },
+  {
+    "type": "Battleaxes",
+    "weapon": " Witchbreaker",
+    "enchant.": "+1",
+    "damage": "1d8 + 1",
+    "damage type": "Slashing",
+    "weight": "1.8 kg 4 lb",
+    "price": "100",
+    "special": "Witchbreaker You gain Advantage on Attack rolls against concentrating creatures. Hush You! () Slash a target and possibly Silence it.",
+    "found": "https://bg3.wiki/wiki/_Witchbreaker#Where_to_find"
+  },
+  {
+    "type": "Battleaxes",
+    "weapon": " Thermodynamo Axe",
+    "enchant.": "+1",
+    "damage": "1d8 + 1",
+    "damage type": "Slashing",
+    "weight": "1.8 kg 4 lb",
+    "price": "310",
+    "special": "Thermodynamo Whenever you deal damage with this weapon, you gain 2 turns of Heat.",
+    "found": "https://bg3.wiki/wiki/_Thermodynamo_Axe#Where_to_find"
+  },
+  {
+    "type": "Battleaxes",
+    "weapon": " Vicious Battleaxe",
+    "enchant.": "+2",
+    "damage": "1d8 + 2",
+    "damage type": "Slashing",
+    "weight": "1.8 kg 3.9 lb",
+    "price": "310",
+    "special": "Dolor Amarus When you land a Critical Hit with any weapon attack, it deals an additional 7 damage.",
+    "found": "https://bg3.wiki/wiki/_Vicious_Battleaxe#Where_to_find"
+  }
+]

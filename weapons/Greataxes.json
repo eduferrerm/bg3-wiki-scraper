@@ -1,0 +1,123 @@
+[
+  {
+    "type": "Greataxes",
+    "weapon": " Greataxe",
+    "enchant.": "",
+    "damage": "1d12",
+    "damage type": "Slashing",
+    "weight": "3.15 kg 6.3 lb",
+    "price": "65",
+    "special": "",
+    "found": "https://bg3.wiki/wiki/_Greataxe#Where_to_find"
+  },
+  {
+    "type": "Greataxes",
+    "weapon": " Greataxe",
+    "enchant.": "",
+    "damage": "1d12",
+    "damage type": "Slashing",
+    "weight": "3.15 kg 6.3 lb",
+    "price": "65",
+    "special": "",
+    "found": "https://bg3.wiki/wiki/_Greataxe#Where_to_find"
+  },
+  {
+    "type": "Greataxes",
+    "weapon": " Exterminator's Axe",
+    "enchant.": "",
+    "damage": "1d12",
+    "damage type": "Slashing",
+    "weight": "3.15 kg 6.3 lb",
+    "price": "130",
+    "special": "Scourge of Pests Deals an additional 1d6Fire damage to Plants, Insects, and Small creatures.",
+    "found": "https://bg3.wiki/wiki/_Exterminator's_Axe#Where_to_find"
+  },
+  {
+    "type": "Greataxes",
+    "weapon": " Greataxe +1",
+    "enchant.": "+1",
+    "damage": "1d12 + 1",
+    "damage type": "Slashing",
+    "weight": "3.15 kg 6.3 lb",
+    "price": "85",
+    "special": "",
+    "found": "https://bg3.wiki/wiki/_Greataxe_+1#Where_to_find"
+  },
+  {
+    "type": "Greataxes",
+    "weapon": " The Undead Bane",
+    "enchant.": "+1",
+    "damage": "1d12 + 1",
+    "damage type": "Slashing",
+    "weight": "3.15 kg 6.3 lb",
+    "price": "130",
+    "special": "Slay the Wicked This weapon deals an additional 1d6Slashing damage against Fiends and Undead. Profane Scourge () Strike with subjugating fury, adding your proficiency bonus to the damage roll. If you hit a Fiend or Undead creature, deal an additional 2d6SlashingDRS damage and possibly Bane it.",
+    "found": "https://bg3.wiki/wiki/_The_Undead_Bane#Where_to_find"
+  },
+  {
+    "type": "Greataxes",
+    "weapon": " Very Heavy Greataxe",
+    "enchant.": "+1",
+    "damage": "1d12 + 1",
+    "damage type": "Slashing",
+    "weight": "9.0 kg 18.0 lb",
+    "price": "130",
+    "special": " Gargantuan Cleave () Swing your weapon with all your might. You can attack multiple targets, dealing bonus 1d6SlashingDRS damage, but become Off Balanced for Duration: 1 turn.",
+    "found": "https://bg3.wiki/wiki/_Very_Heavy_Greataxe#Where_to_find"
+  },
+  {
+    "type": "Greataxes",
+    "weapon": " Blooded Greataxe",
+    "enchant.": "+1",
+    "damage": "1d12 + 1",
+    "damage type": "Slashing",
+    "weight": "3.15 kg 6.3 lb",
+    "price": "380",
+    "special": "Relentless Revenge When the wielder has 50% hit points or less, they deal an additional 1d4Slashing damage.",
+    "found": "https://bg3.wiki/wiki/_Blooded_Greataxe#Where_to_find"
+  },
+  {
+    "type": "Greataxes",
+    "weapon": " Defender Greataxe",
+    "enchant.": "+2",
+    "damage": "1d12 + 2",
+    "damage type": "Slashing",
+    "weight": "3.15 kg 6.3 lb",
+    "price": "380",
+    "special": "Defensive Attack When making your first attack of the round, you can reduce this weapon's enchantment by 1 to increase your Armour Class and Saving throw bonus by 1.",
+    "found": "https://bg3.wiki/wiki/_Defender_Greataxe#Where_to_find"
+  },
+  {
+    "type": "Greataxes",
+    "weapon": " Greataxe +2",
+    "enchant.": "+2",
+    "damage": "1d12 + 2",
+    "damage type": "Slashing",
+    "weight": "3.15 kg 6.3 lb",
+    "price": "190",
+    "special": "",
+    "found": "https://bg3.wiki/wiki/_Greataxe_+2#Where_to_find"
+  },
+  {
+    "type": "Greataxes",
+    "weapon": " Hellfire Greataxe",
+    "enchant.": "+2",
+    "damage": "1d12 + 2 1d6",
+    "damage type": "Slashing Fire",
+    "weight": "3.15 kg 6.3 lb",
+    "price": "960",
+    "special": "Thermodynamo Whenever you deal damage with this weapon, you gain 2 turns of Heat. Hellflame Cleave () Spew hellish flames and strike your foes.",
+    "found": "https://bg3.wiki/wiki/_Hellfire_Greataxe#Where_to_find"
+  },
+  {
+    "type": "Greataxes",
+    "weapon": " Sethan",
+    "enchant.": "+2",
+    "damage": "1d12 + 2",
+    "damage type": "Slashing",
+    "weight": "3.15 kg 6.3 lb",
+    "price": "960",
+    "special": "Sethan: Spiritual Greataxe (): Cast as a level 6 spell ( Recharge: Long rest). Sethan: Reduce (): Cast as a level 2 spell ( Recharge: Long rest).",
+    "found": "https://bg3.wiki/wiki/_Sethan#Where_to_find"
+  }
+]

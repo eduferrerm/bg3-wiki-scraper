@@ -1,0 +1,112 @@
+[
+  {
+    "type": "Longbows",
+    "weapon": " Longbow",
+    "enchant.": "",
+    "damage": "1d8",
+    "damage type": "Piercing",
+    "weight": "1.1 kg 2.2 lb",
+    "price": "50",
+    "special": "",
+    "found": "https://bg3.wiki/wiki/_Longbow#Where_to_find"
+  },
+  {
+    "type": "Longbows",
+    "weapon": " Sahuagin Longbow",
+    "enchant.": "",
+    "damage": "1d8",
+    "damage type": "Piercing",
+    "weight": "1.1 kg 2.2 lb",
+    "price": "50",
+    "special": "",
+    "found": "https://bg3.wiki/wiki/_Sahuagin_Longbow#Where_to_find"
+  },
+  {
+    "type": "Longbows",
+    "weapon": " Hellrider Longbow",
+    "enchant.": "+1",
+    "damage": "1d8 + 1",
+    "damage type": "Piercing",
+    "weight": "1.1 kg 2.4 lb",
+    "price": "770",
+    "special": "Heightened Awareness Gain a +3 bonus to Initiative rolls and Advantage on Perception checks. Fiendish Fire Once per turn, a creature hit by this weapon will possibly be afflicted with Faerie Fire.",
+    "found": "https://bg3.wiki/wiki/_Hellrider_Longbow#Where_to_find"
+  },
+  {
+    "type": "Longbows",
+    "weapon": " Longbow +1",
+    "enchant.": "+1",
+    "damage": "1d8 + 1",
+    "damage type": "Piercing",
+    "weight": "1.1 kg 2.2 lb",
+    "price": "85",
+    "special": "",
+    "found": "https://bg3.wiki/wiki/_Longbow_+1#Where_to_find"
+  },
+  {
+    "type": "Longbows",
+    "weapon": " Spellthief",
+    "enchant.": "",
+    "damage": "1d8",
+    "damage type": "Piercing",
+    "weight": "1.1 kg 2.2 lb",
+    "price": "100",
+    "special": "Arcane Vehemence Once per Short Rest, you regain a Level 1 spell slot when you land a Critical Hit with the Spellthief.",
+    "found": "https://bg3.wiki/wiki/_Spellthief#Where_to_find"
+  },
+  {
+    "type": "Longbows",
+    "weapon": " Longbow +2",
+    "enchant.": "+2",
+    "damage": "1d8 + 2",
+    "damage type": "Piercing",
+    "weight": "1.1 kg 2.2 lb",
+    "price": "155",
+    "special": "",
+    "found": "https://bg3.wiki/wiki/_Longbow_+2#Where_to_find"
+  },
+  {
+    "type": "Longbows",
+    "weapon": " The Joltshooter",
+    "enchant.": "",
+    "damage": "1d8",
+    "damage type": "Piercing",
+    "weight": "1.1 kg 2.2 lb",
+    "price": "310",
+    "special": "Electric Blood When the wielder deals damage using this weapon, they gain 2 Lightning Charges.",
+    "found": "https://bg3.wiki/wiki/_The_Joltshooter#Where_to_find"
+  },
+  {
+    "type": "Longbows",
+    "weapon": " Titanstring Bow",
+    "enchant.": "+1",
+    "damage": "1d8 + 1",
+    "damage type": "Piercing",
+    "weight": "1.1 kg 2.2 lb",
+    "price": "310",
+    "special": "Titan Weapon This weapon deals additional damage equal to your Strength Modifier. Pushing Attack () Pushes your target back 4.5 m / 15 ft.",
+    "found": "https://bg3.wiki/wiki/_Titanstring_Bow#Where_to_find"
+  },
+  {
+    "type": "Longbows",
+    "weapon": " The Dead Shot",
+    "enchant.": "+2",
+    "damage": "1d8 + 2",
+    "damage type": "Piercing",
+    "weight": "1.1 kg 2.2 lb",
+    "price": "770",
+    "special": "Improved Critical The number you need to roll a Critical Hit while attacking is reduced by 1. This effect can stack. Keen Attack The wielder doubles their Proficiency Bonus when rolling ranged attacks with this weapon, unless they have Disadvantage.",
+    "found": "https://bg3.wiki/wiki/_The_Dead_Shot#Where_to_find"
+  },
+  {
+    "type": "Longbows",
+    "weapon": " Gontr Mael",
+    "enchant.": "+3",
+    "damage": "1d8 + 3",
+    "damage type": "Piercing",
+    "weight": "1.1 kg 2.2 lb",
+    "price": "1000",
+    "special": "Promised Victory On a hit, possibly inflict Guiding Bolt upon the target. Gontr Mael: Glowing This object shines with a glowing light in a radius of 6 m / 20 ft. Toggle this to douse and rekindle the light. Celestial Haste (): Cast as a level 3 spell ( Recharge: Long rest). Bolt of Celestial Light () Frighten your target with intimidating arrows. After attacking, ranged weapon attacks made by Gontr Mael deal an additional 1d4Radiant damage.",
+    "found": "https://bg3.wiki/wiki/_Gontr_Mael#Where_to_find"
+  }
+]

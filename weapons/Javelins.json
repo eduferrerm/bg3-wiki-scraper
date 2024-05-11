@@ -1,0 +1,35 @@
+[
+  {
+    "type": "Javelins",
+    "weapon": " BOOOAL's Arms",
+    "enchant.": "",
+    "damage": "1d6",
+    "damage type": "Piercing",
+    "weight": "0.9 kg 1.8 lb",
+    "price": "10",
+    "special": "",
+    "found": "https://bg3.wiki/wiki/_BOOOAL's_Arms#Where_to_find"
+  },
+  {
+    "type": "Javelins",
+    "weapon": " Javelin",
+    "enchant.": "",
+    "damage": "1d6",
+    "damage type": "Piercing",
+    "weight": "0.9 kg 1.8 lb",
+    "price": "10",
+    "special": "",
+    "found": "https://bg3.wiki/wiki/_Javelin#Where_to_find"
+  },
+  {
+    "type": "Javelins",
+    "weapon": " Javelin +1",
+    "enchant.": "+1",
+    "damage": "1d6 + 1",
+    "damage type": "Piercing",
+    "weight": "0.9 kg 1.8 lb",
+    "price": "10",
+    "special": "",
+    "found": "https://bg3.wiki/wiki/_Javelin_+1#Where_to_find"
+  }
+]
