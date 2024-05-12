@@ -1,4 +1,5 @@
 import puppeteer from "puppeteer";
+import { writeJsonFile } from "./helpers.js";
 import fs from "fs";
 
 const weaponTypes = async () => {
@@ -9,14 +10,11 @@ const weaponTypes = async () => {
 
 	const weaponList = await page.evaluate(() => {
 		const tableData = document.querySelectorAll("table.wikitable tr td li a");
-
 		const weapons = Array.from(tableData).map((item) => {
 			return item.innerText;
 		});
-
 		return weapons;
 	});
-
 	return weaponList.filter((item) => item.length > 0);
 };
 
@@ -30,7 +28,6 @@ const weaponsSchema = async (weaponType) => {
 		const header = document.querySelectorAll("th");
 		const rows = document.querySelectorAll("td");
 		const schema = [];
-
 		let rowCounter = 0;
 		let schemaItem = {};
 
@@ -54,7 +51,6 @@ const weaponsSchema = async (weaponType) => {
 
 			if (rowCounter === 7) {
 				const slug = schemaItem["weapon"].replace(/ /g, "_");
-				// schemaItem["url"] = `https://bg3.wiki/wiki/${slug}`;
 				schemaItem["found"] = `https://bg3.wiki/wiki/${slug}#Where_to_find`;
 				schema.push(schemaItem);
 				rowCounter = 0;
@@ -72,37 +68,14 @@ const weaponsSchema = async (weaponType) => {
 	return weaponList;
 };
 
-const writeJsonFile = (fileName, data) => {
-	const parsedData = JSON.stringify(data, null, 2);
-	// console.log({ parsedData });
-	fs.writeFile(`${fileName}.json`, parsedData, function (err) {
-		if (err) {
-			return console.log(err);
-		}
-		console.log("The file was saved!");
-	});
-};
-
-const greatswordData = weaponsSchema("Greatswords");
 const typesOfWeapons = weaponTypes();
 
 typesOfWeapons.then((res) => {
-	// res.splice(0, 2).map((element) => {
 	res.map((element) => {
 		const slug = element.replace(/ /g, "_");
 		const weapon = weaponsSchema(slug);
 		weapon.then((weaponRes) => {
-			writeJsonFile(`weapons/${slug}`, weaponRes);
+			writeJsonFile(`./schemas/weapons/${slug}`, weaponRes);
 		});
 	});
 });
-
-// greatswordData.then((res) => {
-// 	// writeJsonFile("greatswords-schema", res);
-// 	console.log(res);
-// });
-
-// typesOfWeapons.then((res) => {
-// 	// writeJsonFile("greatswords-schema", res);
-// 	//console.log(res);
-// });
