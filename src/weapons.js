@@ -7,6 +7,7 @@ const weaponTypes = async () => {
 	const browser = await puppeteer.launch();
 	const page = await browser.newPage();
 	await page.goto(url);
+	// browser.close();
 
 	const weaponList = await page.evaluate(() => {
 		const tableData = document.querySelectorAll("table.wikitable tr td li a");

@@ -7,3 +7,9 @@ export const writeJsonFile = (fileName, data) => {
 		console.log("The file was saved!");
 	});
 };
+
+export const cleanValuesCommas = (arr) => {
+	return arr.map((item) => {
+		return item.trim();
+	});
+};
