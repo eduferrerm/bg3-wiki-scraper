@@ -1,0 +1,138 @@
+[
+  {
+    "Drow": [
+      "Rapiers",
+      "Shortswords",
+      "Hand Crossbows"
+    ]
+  },
+  {
+    "Dwarf": [
+      "Battleaxes",
+      "Handaxes",
+      "Light Hammers",
+      "Warhammers"
+    ]
+  },
+  {
+    "Elf": [
+      "Longswords",
+      "Shortswords",
+      "Longbows",
+      "Shortbows"
+    ]
+  },
+  {
+    "Githyanki": [
+      "Greatswords",
+      "Longswords",
+      "Shortswords"
+    ]
+  },
+  {
+    "Cleric": [
+      "Simple weapons",
+      "Flails",
+      "Morningstars"
+    ]
+  },
+  {
+    "Druid": [
+      "Clubs",
+      "Daggers",
+      "Javelins",
+      "Maces",
+      "Quarterstaves",
+      "Scimitars",
+      "Sickles",
+      "Spears"
+    ]
+  },
+  {
+    "Monk": [
+      "Simple weapons",
+      "Shortswords"
+    ]
+  },
+  {
+    "Warlock": [
+      "Simple weapons"
+    ]
+  },
+  {
+    "Half-Elf": [
+      "Pikes",
+      "Spears",
+      "Halberds",
+      "Glaives"
+    ]
+  },
+  {
+    "Human": [
+      "Pikes",
+      "Spears",
+      "Halberds",
+      "Glaives"
+    ]
+  },
+  {
+    "Barbarian": [
+      "Martial weapons",
+      "Simple weapons (In effect",
+      "all weapons except Improvised.)"
+    ]
+  },
+  {
+    "Fighter": [
+      "Martial weapons",
+      "Simple weapons (In effect",
+      "all weapons except Improvised.)"
+    ]
+  },
+  {
+    "Paladin": [
+      "Martial weapons",
+      "Simple weapons (In effect",
+      "all weapons except Improvised.)"
+    ]
+  },
+  {
+    "Ranger": [
+      "Martial weapons",
+      "Simple weapons (In effect",
+      "all weapons except Improvised.)"
+    ]
+  },
+  {
+    "Bard": [
+      "Simple weapons",
+      "Hand Crossbows",
+      "Longswords",
+      "Rapiers",
+      "Shortswords"
+    ]
+  },
+  {
+    "Rogue": [
+      "Simple weapons",
+      "Hand Crossbows",
+      "Longswords",
+      "Rapiers",
+      "Shortswords"
+    ]
+  },
+  {
+    "Sorcerer": [
+      "Daggers",
+      "Light Crossbows",
+      "Quarterstaves"
+    ]
+  },
+  {
+    "Wizard": [
+      "Daggers",
+      "Light Crossbows",
+      "Quarterstaves"
+    ]
+  }
+]

@@ -1,8 +1,7 @@
 import puppeteer from "puppeteer";
-import { writeJsonFile, cleanValuesCommas } from "./helpers.js";
-import fs from "fs";
+import { writeJsonFile, trimStringArr } from "./helpers.js";
 
-const racesTypes = async () => {
+const raceProficienciesTypes = async () => {
 	let browser = null;
 
 	try {
@@ -32,16 +31,33 @@ const racesTypes = async () => {
 			return item.split("\t");
 		});
 
-		const formatArrToObject = dividedList.map((item) => {
-			const key = item[0];
-			let value = cleanValuesCommas(item[1].split(","));
+		const formatArrToObject = () => {
+			let cleanObjectsArr = [];
+			let stackedObjectsArr = [];
 
-			return {
-				[key]: value,
-			};
-		});
+			dividedList.map((item) => {
+				const key = item[0];
+				let value = trimStringArr(item[1].split(","));
 
-		return formatArrToObject;
+				if (key.includes(",")) {
+					const stackedKey = key.split(",");
+
+					stackedKey.map((stackedKeyItem) => {
+						stackedObjectsArr.push({
+							[stackedKeyItem.trim()]: value,
+						});
+					});
+				} else {
+					cleanObjectsArr.push({
+						[key]: value,
+					});
+				}
+			});
+
+			return cleanObjectsArr.concat(stackedObjectsArr);
+		};
+
+		return formatArrToObject();
 	} catch (e) {
 		console.log("error:", e);
 	} finally {
@@ -49,37 +65,8 @@ const racesTypes = async () => {
 	}
 };
 
-// const raceSchemas = async (raceType) => {
-// 	const url = `https://bg3.wiki/wiki/Proficiency`;
-// 	const browser = await puppeteer.launch();
-// 	const page = await browser.newPage();
-// 	await page.goto(url);
+const weaponProficiencies = raceProficienciesTypes();
 
-// 	// !!! get only weapon proficiency of each race !!!
-
-// 	const raceData = await page.evaluate(() => {
-// 		const tableData = document.querySelectorAll("ul");
-// 		const cellData = Array.from(tableData).map((item) => {
-// 			if (item.innerText.includes("Proficiency")) {
-// 				return item.innerText;
-// 			}
-// 		});
-// 		return cellData;
-// 	});
-
-// 	return raceData;
-// };
-
-const typesOfRaces = racesTypes();
-
-typesOfRaces.then((res) => {
-	console.log(res);
-	// res.map((element) => {
-	// 	const slug = element.replace(/ /g, "_");
-	// 	const race = raceSchemas(slug);
-	// 	race.then((raceRes) => {
-	// 		console.log(raceRes[1]);
-	// 		// writeJsonFile(`./schemas/races/${slug}`, raceRes);
-	// 	});
-	// });
+weaponProficiencies.then((res) => {
+	writeJsonFile(`./schemas/race-proficiencies/race-proficiencies`, res);
 });

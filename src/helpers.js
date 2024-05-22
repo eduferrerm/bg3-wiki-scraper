@@ -1,3 +1,5 @@
+import fs from "fs";
+
 export const writeJsonFile = (fileName, data) => {
 	const parsedData = JSON.stringify(data, null, 2);
 	fs.writeFile(`${fileName}.json`, parsedData, function (err) {
@@ -8,7 +10,7 @@ export const writeJsonFile = (fileName, data) => {
 	});
 };
 
-export const cleanValuesCommas = (arr) => {
+export const trimStringArr = (arr) => {
 	return arr.map((item) => {
 		return item.trim();
 	});
